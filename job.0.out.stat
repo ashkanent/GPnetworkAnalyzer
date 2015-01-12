@@ -1,0 +1,18 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.75
+Tree 0:
+ (- (MIN (* DGR ECC) (MAX DGR STR)) (MIN (+
+     BTW BTW) (* BRG BRG)))
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.73
+Tree 0:
+ (+ (MAX (+ BTW CNT) (- ECC BRG)) (* (- DGR
+     (- BRG ECC)) (- EIG BRG)))

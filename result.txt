@@ -1,0 +1,200 @@
+Individual: ec.gp.GPIndividual@41518999{1740496317} - Counter: 1
+True Positive: 21.00% - True Negative: 31.00% 
+False Positive: 19.00% - False Negative: 29.00%
+Fitness Value: 52.0
+________________________________________________
+Individual: ec.gp.GPIndividual@836812982{1740496317} - Counter: 2
+True Positive: 21.00% - True Negative: 31.00% 
+False Positive: 19.00% - False Negative: 29.00%
+Fitness Value: 52.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1535056135{1508567600} - Counter: 3
+True Positive: 15.00% - True Negative: 33.00% 
+False Positive: 17.00% - False Negative: 35.00%
+Fitness Value: 48.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1967409534{1508567600} - Counter: 4
+True Positive: 15.00% - True Negative: 33.00% 
+False Positive: 17.00% - False Negative: 35.00%
+Fitness Value: 48.0
+________________________________________________
+Individual: ec.gp.GPIndividual@126619074{1287274683} - Counter: 5
+True Positive: 17.00% - True Negative: 34.00% 
+False Positive: 16.00% - False Negative: 33.00%
+Fitness Value: 51.0
+________________________________________________
+Individual: ec.gp.GPIndividual@2077966188{1287274683} - Counter: 6
+True Positive: 17.00% - True Negative: 34.00% 
+False Positive: 16.00% - False Negative: 33.00%
+Fitness Value: 51.0
+________________________________________________
+Individual: ec.gp.GPIndividual@819085075{1282542628} - Counter: 7
+True Positive: 17.00% - True Negative: 39.00% 
+False Positive: 11.00% - False Negative: 33.00%
+Fitness Value: 56.00000000000001
+________________________________________________
+Individual: ec.gp.GPIndividual@992678255{1282542628} - Counter: 8
+True Positive: 17.00% - True Negative: 39.00% 
+False Positive: 11.00% - False Negative: 33.00%
+Fitness Value: 56.00000000000001
+________________________________________________
+Individual: ec.gp.GPIndividual@117568061{540185208} - Counter: 9
+True Positive: 26.00% - True Negative: 26.00% 
+False Positive: 24.00% - False Negative: 24.00%
+Fitness Value: 52.0
+________________________________________________
+Individual: ec.gp.GPIndividual@281445987{540185208} - Counter: 10
+True Positive: 26.00% - True Negative: 26.00% 
+False Positive: 24.00% - False Negative: 24.00%
+Fitness Value: 52.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1653722347{-1699031387} - Counter: 11
+True Positive: 20.00% - True Negative: 29.00% 
+False Positive: 21.00% - False Negative: 30.00%
+Fitness Value: 49.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1378126555{-1699031387} - Counter: 12
+True Positive: 20.00% - True Negative: 29.00% 
+False Positive: 21.00% - False Negative: 30.00%
+Fitness Value: 49.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1949757217{1089329771} - Counter: 13
+True Positive: 17.00% - True Negative: 40.00% 
+False Positive: 10.00% - False Negative: 33.00%
+Fitness Value: 57.00000000000001
+________________________________________________
+Individual: ec.gp.GPIndividual@1116576546{1089329771} - Counter: 14
+True Positive: 17.00% - True Negative: 40.00% 
+False Positive: 10.00% - False Negative: 33.00%
+Fitness Value: 57.00000000000001
+________________________________________________
+Individual: ec.gp.GPIndividual@16835480{1775538763} - Counter: 15
+True Positive: 19.00% - True Negative: 38.00% 
+False Positive: 12.00% - False Negative: 31.00%
+Fitness Value: 57.00000000000001
+________________________________________________
+Individual: ec.gp.GPIndividual@1633554603{1775538763} - Counter: 16
+True Positive: 19.00% - True Negative: 38.00% 
+False Positive: 12.00% - False Negative: 31.00%
+Fitness Value: 57.00000000000001
+________________________________________________
+Individual: ec.gp.GPIndividual@2026414119{589041740} - Counter: 17
+True Positive: 16.00% - True Negative: 38.00% 
+False Positive: 12.00% - False Negative: 34.00%
+Fitness Value: 54.0
+________________________________________________
+Individual: ec.gp.GPIndividual@998940260{589041740} - Counter: 18
+True Positive: 16.00% - True Negative: 38.00% 
+False Positive: 12.00% - False Negative: 34.00%
+Fitness Value: 54.0
+________________________________________________
+Individual: ec.gp.GPIndividual@230025965{-1827025163} - Counter: 19
+True Positive: 30.00% - True Negative: 24.00% 
+False Positive: 26.00% - False Negative: 20.00%
+Fitness Value: 54.0
+________________________________________________
+Individual: ec.gp.GPIndividual@575829155{-1827025163} - Counter: 20
+True Positive: 30.00% - True Negative: 24.00% 
+False Positive: 26.00% - False Negative: 20.00%
+Fitness Value: 54.0
+________________________________________________
+Individual: ec.gp.GPIndividual@280748674{403195056} - Counter: 21
+True Positive: 19.00% - True Negative: 41.00% 
+False Positive: 9.00% - False Negative: 31.00%
+Fitness Value: 60.0
+________________________________________________
+Individual: ec.gp.GPIndividual@521391459{403195056} - Counter: 22
+True Positive: 19.00% - True Negative: 41.00% 
+False Positive: 9.00% - False Negative: 31.00%
+Fitness Value: 60.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1364945945{2135461808} - Counter: 23
+True Positive: 18.00% - True Negative: 32.00% 
+False Positive: 18.00% - False Negative: 32.00%
+Fitness Value: 50.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1226180361{2135461808} - Counter: 24
+True Positive: 18.00% - True Negative: 32.00% 
+False Positive: 18.00% - False Negative: 32.00%
+Fitness Value: 50.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1073460433{-1339222643} - Counter: 25
+True Positive: 19.00% - True Negative: 40.00% 
+False Positive: 10.00% - False Negative: 31.00%
+Fitness Value: 59.00000000000001
+________________________________________________
+Individual: ec.gp.GPIndividual@639378984{-1339222643} - Counter: 26
+True Positive: 19.00% - True Negative: 40.00% 
+False Positive: 10.00% - False Negative: 31.00%
+Fitness Value: 59.00000000000001
+________________________________________________
+Individual: ec.gp.GPIndividual@943260315{1378933788} - Counter: 27
+True Positive: 23.00% - True Negative: 33.00% 
+False Positive: 17.00% - False Negative: 27.00%
+Fitness Value: 56.00000000000001
+________________________________________________
+Individual: ec.gp.GPIndividual@651832051{1378933788} - Counter: 28
+True Positive: 23.00% - True Negative: 33.00% 
+False Positive: 17.00% - False Negative: 27.00%
+Fitness Value: 56.00000000000001
+________________________________________________
+Individual: ec.gp.GPIndividual@1771493528{-186266665} - Counter: 29
+True Positive: 21.00% - True Negative: 38.00% 
+False Positive: 12.00% - False Negative: 29.00%
+Fitness Value: 59.0
+________________________________________________
+Individual: ec.gp.GPIndividual@778443088{-186266665} - Counter: 30
+True Positive: 21.00% - True Negative: 38.00% 
+False Positive: 12.00% - False Negative: 29.00%
+Fitness Value: 59.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1143794739{939218567} - Counter: 31
+True Positive: 22.00% - True Negative: 29.00% 
+False Positive: 21.00% - False Negative: 28.00%
+Fitness Value: 51.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1632054076{939218567} - Counter: 32
+True Positive: 22.00% - True Negative: 29.00% 
+False Positive: 21.00% - False Negative: 28.00%
+Fitness Value: 51.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1436553983{1553345763} - Counter: 33
+True Positive: 26.00% - True Negative: 22.00% 
+False Positive: 28.00% - False Negative: 24.00%
+Fitness Value: 48.0
+________________________________________________
+Individual: ec.gp.GPIndividual@4149060{1553345763} - Counter: 34
+True Positive: 26.00% - True Negative: 22.00% 
+False Positive: 28.00% - False Negative: 24.00%
+Fitness Value: 48.0
+________________________________________________
+Individual: ec.gp.GPIndividual@626069078{1808084336} - Counter: 35
+True Positive: 18.00% - True Negative: 33.00% 
+False Positive: 17.00% - False Negative: 32.00%
+Fitness Value: 51.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1820607293{1808084336} - Counter: 36
+True Positive: 18.00% - True Negative: 33.00% 
+False Positive: 17.00% - False Negative: 32.00%
+Fitness Value: 51.0
+________________________________________________
+Individual: ec.gp.GPIndividual@783736744{1070230782} - Counter: 37
+True Positive: 25.00% - True Negative: 30.00% 
+False Positive: 20.00% - False Negative: 25.00%
+Fitness Value: 55.00000000000001
+________________________________________________
+Individual: ec.gp.GPIndividual@1746249357{1070230782} - Counter: 38
+True Positive: 25.00% - True Negative: 30.00% 
+False Positive: 20.00% - False Negative: 25.00%
+Fitness Value: 55.00000000000001
+________________________________________________
+Individual: ec.gp.GPIndividual@1467462867{-1605524040} - Counter: 39
+True Positive: 15.00% - True Negative: 35.00% 
+False Positive: 15.00% - False Negative: 35.00%
+Fitness Value: 50.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1946203521{-1605524040} - Counter: 40
+True Positive: 15.00% - True Negative: 35.00% 
+False Positive: 15.00% - False Negative: 35.00%
+Fitness Value: 50.0
+________________________________________________
