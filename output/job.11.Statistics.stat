@@ -3,1427 +3,1167 @@ Generation: 0
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.73
+Fitness: 0.8275862068965517
 Tree 0:
- (MIN (MAX (+ (MAX (* CNT DGR) (MAX BTW DGR))
-     (+ (MIN EIG ECC) (MAX ECC CLS))) (/ (MIN
-     (+ ECC BTW) (MIN RAD CNT)) (* (+ CNT RAD)
-     (MIN BTW RAD)))) (MIN (+ (* (MIN BRG CNT)
-     (- RAD RAD)) (+ (MAX RAD BTW) (* CNT RAD)))
-     (MIN (+ (/ BRG ECC) (MAX ECC RAD)) (+ (*
-         DGR BTW) (MAX DGR BRG)))))
+ (* (- BTW (MAX (* DGR BRG) EIG)) DGR)
 
 Generation: 1
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.73
+Fitness: 0.8275862068965517
 Tree 0:
- (* DGR (+ (/ CNT BTW) (- ECC CLS)))
+ (- BTW (MAX (* DGR BRG) EIG))
 
 Generation: 2
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.74
+Fitness: 0.8275862068965517
 Tree 0:
- (- (/ BTW (- (/ (MAX RAD STR) (/ DGR BRG))
-     (MIN (+ CLS CNT) (- DGR EIG)))) (- (/ (-
-     (- RAD RAD) (* STR CLS)) (- (+ BTW BRG) (MAX
-     CNT STR))) (/ (+ (- EIG CNT) (- ECC DGR))
-     (/ (- STR BRG) (MIN DGR CNT)))))
+ (- BTW (MAX (* DGR BRG) EIG))
 
 Generation: 3
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.74
+Fitness: 0.8275862068965517
 Tree 0:
- (- (/ BTW (- (/ (MAX RAD STR) (/ DGR BRG))
-     (MIN (+ CLS CNT) (- DGR EIG)))) (- (/ (-
-     (- RAD RAD) (* STR CLS)) (- (+ BTW BRG) (MAX
-     CNT STR))) (/ (+ (- EIG CNT) (- ECC DGR))
-     (/ (- STR BRG) (MIN DGR CNT)))))
+ (- (MAX (* CNT STR) (- (* (/ STR BRG) (*
+     STR EIG)) (MAX (+ DGR BTW) (/ STR EIG))))
+     (MAX (- (MIN (+ CNT DGR) (MAX CLS EIG)) (-
+         (/ CNT CLS) (/ DGR DGR))) (+ (/ (* BTW EIG)
+         (+ BRG DGR)) (- (+ CNT CNT) (* RAD CLS)))))
 
 Generation: 4
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.78
+Fitness: 0.8275862068965517
 Tree 0:
- (- (/ BTW (- (/ (MAX RAD STR) (/ DGR BRG))
-     (MAX (- CNT BRG) (MIN ECC RAD)))) (- (/ (-
-     (* RAD CNT) (+ (- DGR CNT) (- EIG BTW)))
-     (- (+ BTW BRG) (MAX CNT STR))) (/ (+ (- EIG
-     CNT) (- ECC DGR)) (+ (* (MIN BRG CNT) (-
-     RAD RAD)) (+ (MAX RAD BTW) (* CNT RAD))))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+     (MIN BRG ECC) (+ BTW ECC))) (* CNT RAD)))
+     (* (MIN STR BRG) (MIN CLS (* STR CLS))))
+     (MAX (* (* DGR EIG) (* CLS STR)) (* (+ BRG
+         EIG) (MAX EIG ECC)))) (/ (/ (* (/ EIG STR)
+     (+ BTW ECC)) (* (- RAD BTW) (+ BRG ECC)))
+     (* (/ STR RAD) (* (/ STR BRG) (* STR EIG)))))
 
 Generation: 5
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.75
+Fitness: 0.8275862068965517
 Tree 0:
- (- (/ BTW (- (/ (MAX RAD STR) (/ DGR BRG))
-     BRG)) (- (/ (- (* RAD CNT) (+ (- DGR CNT)
-     (- EIG BTW))) (- (+ BTW BRG) (MAX CNT STR)))
-     (/ (+ (- EIG CNT) (- ECC DGR)) (+ (* (MIN
-         BRG CNT) (- RAD RAD)) (+ (MAX RAD BTW) (*
-         CNT RAD))))))
+ (- (MAX (* CNT STR) (- (* (/ STR BRG) (*
+     STR EIG)) (MAX (+ DGR BTW) (/ STR EIG))))
+     (MAX (- (MIN (+ (MAX (MAX DGR RAD) (* (+
+         RAD CNT) (* BTW BRG))) CNT) (MAX CLS EIG))
+         (- (/ CNT CLS) (/ DGR DGR))) (+ (/ (* BTW
+         EIG) (+ BRG DGR)) (- (+ CNT CNT) (* RAD CLS)))))
 
 Generation: 6
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.76
+Fitness: 0.8275862068965517
 Tree 0:
- (- (/ BTW (- (/ (MAX RAD STR) (/ DGR BRG))
-     BRG)) (- (/ (- (* RAD CNT) (+ (- DGR CNT)
-     (- EIG BTW))) (- (+ BTW BRG) (MAX CNT STR)))
-     (/ (+ (- EIG CNT) (- ECC DGR)) (+ BRG (+
-         (MAX RAD BTW) (* CNT RAD))))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+     (MIN BRG ECC) (MIN (+ BTW ECC) (MIN CNT CLS))))
+     (* CNT RAD))) (* (MIN STR BRG) (MIN CLS (*
+     STR CLS)))) (MAX (* (* DGR EIG) (* CLS STR))
+     (* (/ (/ BTW ECC) (+ CNT DGR)) (MAX EIG ECC))))
+     (/ (/ (* (/ EIG STR) (+ BTW ECC)) (* (- RAD
+         BTW) (+ BRG ECC))) (* (/ STR RAD) (* (/ STR
+         BRG) (* STR EIG)))))
 
 Generation: 7
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.76
+Fitness: 0.8275862068965517
 Tree 0:
- (- (/ BTW (- (/ (MAX RAD STR) (/ DGR BRG))
-     BRG)) (- (/ (- (* RAD CNT) (+ (- DGR CNT)
-     (- EIG BTW))) (- (+ BTW BRG) (MAX CNT STR)))
-     (/ (+ (- EIG CNT) (- ECC DGR)) (+ BRG (+
-         (MAX RAD BTW) (* CNT RAD))))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+     (MIN BRG ECC) (+ BTW ECC))) (* CNT RAD)))
+     (* (MIN STR BRG) (MIN CLS (* STR CLS))))
+     (MAX (* (* DGR EIG) (* CLS STR)) (* (+ BRG
+         EIG) (MAX EIG ECC)))) (/ (/ (* (/ EIG STR)
+     (+ BTW ECC)) (* (+ (+ (+ (MIN ECC CNT) (+
+     (MAX BTW (- RAD CLS)) (* CNT RAD))) (* (MIN
+     STR BRG) (MIN CLS (* STR CLS)))) (MAX (*
+     (* DGR EIG) (* CLS STR)) (- (/ CNT CLS) (-
+     RAD CLS)))) (+ BRG ECC))) (* (MIN (MIN BTW
+     RAD) (* CNT RAD)) (- DGR CNT))))
 
 Generation: 8
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.76
+Fitness: 0.8275862068965517
 Tree 0:
- (- (/ BTW (- (/ (MAX RAD STR) (/ DGR BRG))
-     BRG)) (- (/ (- (* RAD CNT) (+ (- DGR CNT)
-     (- EIG BTW))) (- (+ BTW BRG) (MAX CNT STR)))
-     (/ (+ (- EIG CNT) (- ECC DGR)) (+ BRG (+
-         (MAX RAD BTW) (* CNT RAD))))))
+ (- (MAX (* CNT STR) (- (* (/ STR BRG) (*
+     STR EIG)) (MAX (+ DGR BTW) (/ STR EIG))))
+     (MAX (- (MIN (+ (- DGR EIG) CNT) (MAX CLS
+         EIG)) (- (/ CNT CLS) (/ DGR DGR))) (+ CNT
+         DGR)))
 
 Generation: 9
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.75
+Fitness: 0.8620689655172413
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (+ (- BTW CLS)
-     (* CNT BRG))) (- (* (/ DGR BRG) (* CLS CNT))
-     (* (MAX BRG STR) (- CNT ECC)))) (/ (+ (-
-     BTW CLS) (* CNT BRG)) (MIN (+ ECC BTW) (MIN
-     (+ (- DGR DGR) (MIN BRG EIG)) CNT)))) (MIN
-     (+ (* EIG CNT) (+ (MAX RAD BTW) (* CNT RAD)))
-     (MIN (+ (/ BRG ECC) (MIN CLS BTW)) (+ (*
-         DGR BTW) (MAX DGR BRG)))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+     (MIN BRG ECC) (+ BTW ECC))) (* CNT RAD)))
+     (* (MIN STR BRG) (MIN CLS (* (/ (/ BTW ECC)
+         (+ CNT DGR)) (MAX EIG ECC))))) (MAX (* (*
+     DGR EIG) (* (/ EIG STR) (/ STR BRG))) (*
+     (+ BRG EIG) (MAX EIG ECC)))) (/ (/ (* (/
+     EIG STR) (+ BTW ECC)) (* (+ (+ (+ (MIN ECC
+     CNT) (+ (MAX BTW (- RAD CLS)) (* CNT RAD)))
+     (* (MIN STR BRG) (MIN CLS (* STR CLS))))
+     (MAX (* (* DGR EIG) (* CLS STR)) (- (/ CNT
+         CLS) (- RAD CLS)))) (+ BRG ECC))) (* (MIN
+     (MIN BTW RAD) (* CNT RAD)) (- DGR CNT))))
 
 Generation: 10
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.75
+Fitness: 0.8620689655172413
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (+ (- BTW CLS)
-     (* CNT BRG))) (- (* (+ (* EIG CNT) (+ (MAX
-     RAD BTW) (* CNT RAD))) (* CLS CNT)) (* (MAX
-     BRG STR) (/ CNT BTW)))) (/ (+ (- BTW CLS)
-     (* CNT BRG)) (MIN (+ ECC BTW) (MIN (+ (-
-     DGR DGR) (MIN BRG EIG)) CNT)))) (MIN (+ (*
-     EIG CNT) (+ (MAX RAD BTW) (* CNT RAD))) (MIN
-     (+ (/ BRG ECC) (MIN CLS BTW)) (+ (* DGR BTW)
-     (MAX DGR BRG)))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+     (MIN BRG ECC) (MIN CLS (* STR CLS)))) (*
+     CNT RAD))) (* (MIN STR BRG) (MIN CLS (* (/
+     (/ BTW ECC) (+ CNT DGR)) (MAX EIG ECC)))))
+     (MAX (* (* DGR EIG) (* (/ EIG STR) (/ STR
+         BRG))) (* (+ BRG EIG) (MAX EIG ECC)))) (/
+     (/ (* (/ EIG STR) (+ BTW ECC)) (* (+ (+ (+
+         (MIN ECC CNT) (+ (MAX BTW (- RAD CLS)) (*
+         CNT RAD))) (* (MIN STR BRG) (MIN CLS (* STR
+         CLS)))) (MAX (* (* DGR EIG) (* CLS STR))
+         (- (/ CNT CLS) (- RAD CLS)))) (+ BRG ECC)))
+     (* (MIN (MIN BTW RAD) (* CNT RAD)) (- DGR
+         CNT))))
 
 Generation: 11
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.75
+Fitness: 0.8620689655172413
 Tree 0:
- (* (MIN (+ (- RAD RAD) (MAX ECC CLS)) (MAX
-     RAD BTW)) (+ (+ (+ (+ (+ (/ BRG ECC) (MAX
-     ECC RAD)) (MAX DGR EIG)) (+ (MAX (* EIG BTW)
-     (MAX EIG CLS)) (+ CNT EIG))) RAD) (+ (MAX
-     RAD BTW) (* CNT RAD))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+     (MIN BRG ECC) (+ BTW ECC))) (* CNT RAD)))
+     (* (MIN STR BRG) (MIN CLS (* (/ (/ BTW ECC)
+         (+ CNT DGR)) (MAX EIG ECC))))) (MAX (* (*
+     DGR EIG) (* (/ EIG STR) (/ STR BRG))) (*
+     (+ BRG EIG) (MAX EIG ECC)))) (/ (/ (* (/
+     EIG STR) (+ BTW ECC)) (* (+ (+ (+ (MIN ECC
+     CNT) (+ (MAX BTW (- RAD CLS)) (* CNT RAD)))
+     (* (MIN STR BRG) (MIN STR BRG))) (MAX (*
+     (* DGR EIG) (* CLS STR)) (- (/ CNT CLS) (-
+     RAD CLS)))) (+ BRG ECC))) (+ (+ (+ (MIN ECC
+     CNT) (+ (MAX BTW (MIN (MIN BRG ECC) (+ BTW
+     ECC))) (* CNT RAD))) (* (MIN STR BRG) (MIN
+     CLS (* STR CLS)))) (* CLS STR))))
 
 Generation: 12
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.75
+Fitness: 0.8620689655172413
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (+ (- BTW CLS)
-     (* CNT BRG))) (- (* (/ DGR BRG) (* CLS CNT))
-     (* (MAX BRG STR) (/ CNT BTW)))) (/ (+ (-
-     BTW CLS) (* CNT BRG)) (MIN (MAX ECC RAD)
-     (MIN (+ (+ (MIN (MIN (* (* RAD CLS) (* STR
-         DGR)) (MAX (* CLS CNT) (- STR CNT))) (- (+
-         (/ BRG CLS) (MIN CLS BTW)) (MIN BTW RAD)))
-         (MAX DGR BRG)) (MIN BRG EIG)) CNT)))) (MIN
-     (+ (* EIG CNT) (+ (MAX RAD BTW) (* CNT RAD)))
-     (MIN (+ (/ BRG ECC) BRG) (+ (* DGR BTW) (MAX
-         DGR BRG)))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+     (MIN BRG ECC) (+ BTW ECC))) (* CNT RAD)))
+     (* (MIN STR BRG) (MIN CLS (* (/ (/ BTW ECC)
+         (+ CNT DGR)) (MAX EIG ECC))))) (MAX (* (*
+     DGR EIG) (* (/ EIG STR) (/ STR BRG))) (*
+     (+ BRG EIG) (MAX EIG ECC)))) (/ (/ (* (/
+     EIG STR) (+ BTW ECC)) (* (+ (+ (+ (MIN ECC
+     CNT) (+ (MAX BTW (- RAD CLS)) (* CNT RAD)))
+     (* (MIN STR BRG) (MIN BRG ECC))) (MAX (*
+     (* DGR EIG) (* CLS STR)) (- (/ CNT CLS) (-
+     RAD CLS)))) (+ BRG ECC))) (+ (+ (+ (/ EIG
+     STR) (+ (MAX BTW (MIN (MIN BRG ECC) (+ BTW
+     ECC))) (* CNT RAD))) (* (MIN STR BRG) (MIN
+     CLS (* STR CLS)))) (* CLS STR))))
 
 Generation: 13
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.77
+Fitness: 0.8620689655172413
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (+ (- BTW CLS)
-     (* CNT BRG))) (- (* (+ (* EIG CNT) (+ (/
-     (MAX RAD BTW) (MIN RAD CNT)) (* CNT RAD)))
-     (* CLS CNT)) (* (MAX BRG STR) (/ CNT BTW))))
-     (/ (+ (- BTW CLS) (* CNT (* (+ CNT RAD) (MIN
-         (+ (/ BRG ECC) (MAX ECC RAD)) (+ (/ CNT BTW)
-         (- ECC CLS)))))) (MIN (MAX ECC CLS) (MIN
-         (+ (- DGR DGR) (MIN BRG EIG)) CNT)))) (MIN
-     (+ (* EIG CNT) (+ (MAX RAD BTW) (* CNT RAD)))
-     (MIN (+ (/ BRG ECC) (MIN CLS BTW)) (+ (*
-         DGR BTW) (MAX DGR BRG)))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+     (MIN BRG ECC) (MIN CLS (* STR CLS)))) (*
+     CNT RAD))) (* (MIN STR BRG) (MIN CLS (* (/
+     (/ BTW ECC) (+ CNT DGR)) (MAX EIG ECC)))))
+     (MAX (/ (/ (* (/ EIG STR) (+ BTW ECC)) (*
+         (MIN (- (MAX DGR DGR) (MAX BTW RAD)) (- (-
+             BTW EIG) (MAX BRG BTW))) (+ CNT DGR))) (*
+         (MIN (* BTW BRG) (+ BRG (MIN BRG EIG))) (*
+         (/ STR BRG) (* STR EIG)))) (* (+ BRG EIG)
+         (MAX EIG ECC)))) (/ (/ (* (/ EIG STR) (+
+     BTW ECC)) (* (+ (+ (+ (MIN ECC CNT) (+ (MAX
+     BTW (- RAD CLS)) (* CNT RAD))) (* (MIN STR
+     BRG) (MIN CLS (* STR CLS)))) (MAX (* (* DGR
+     EIG) (* CLS STR)) (- (/ CNT CLS) (- RAD CLS))))
+     (+ BRG ECC))) (* (MIN (MIN ECC CNT) (* CNT
+     RAD)) (- DGR CNT))))
 
 Generation: 14
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.77
+Fitness: 0.8620689655172413
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (+ (- BTW CLS)
-     (* CNT BRG))) (- (* (+ (* EIG CNT) (+ (/
-     (MAX RAD BTW) (MIN RAD CNT)) (* CNT RAD)))
-     (* CLS CNT)) (* (MAX BRG STR) (/ CNT BTW))))
-     (/ (+ (- BTW CLS) (* CNT (* (+ CNT RAD) (MIN
-         (+ (/ BRG ECC) (MAX ECC RAD)) (+ (/ CNT BTW)
-         (- ECC CLS)))))) (MIN (MAX ECC CLS) (MIN
-         (+ (- DGR DGR) BTW) CNT)))) (MIN (+ (* EIG
-     CNT) (+ (MAX RAD BTW) (* CNT RAD))) (MIN
-     (+ (/ BRG ECC) (MIN CLS BTW)) (+ (* DGR BTW)
-     (MAX DGR BRG)))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+     (MIN BRG ECC) (+ BTW ECC))) (* CNT RAD)))
+     (* (MIN STR BRG) (MIN CLS (* (/ (/ BTW ECC)
+         (+ CNT DGR)) (MAX EIG ECC))))) (MAX (* (*
+     DGR EIG) (* (/ EIG STR) (/ STR BRG))) (*
+     (+ BRG EIG) (MAX EIG ECC)))) (/ (/ (* (/
+     EIG STR) (+ BTW ECC)) (* (+ (+ (+ (MIN ECC
+     CNT) (+ (MAX BTW (- RAD CLS)) (* CNT RAD)))
+     (* (MIN STR BRG) (MIN CLS (* STR CLS))))
+     (MAX (* (* DGR EIG) (/ (/ BTW ECC) (+ CNT
+         DGR))) (- (/ CNT CLS) (- RAD CLS)))) (* (/
+     STR BRG) (* STR EIG)))) (+ (+ (+ (MIN ECC
+     CNT) (+ (MAX BTW (MIN (+ (/ BRG RAD) (- DGR
+     CNT)) (+ BTW ECC))) (/ STR EIG))) (* (MIN
+     STR BRG) (MIN CLS (* STR CLS)))) (* CLS STR))))
 
 Generation: 15
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.77
+Fitness: 0.8620689655172413
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (+ (- BTW CLS)
-     (* CNT BRG))) (- (* (+ (* EIG CNT) (+ (/
-     (+ (MAX ECC CLS) (MIN CNT BRG)) (MIN RAD
-     CNT)) (* CNT RAD))) (* CLS CNT)) (* (MAX
-     BRG STR) (/ CNT BTW)))) (/ (+ (- BTW CLS)
-     (* CNT (* (+ CNT RAD) (MIN (+ (/ BRG ECC)
-         (MAX ECC RAD)) (+ (/ CNT BTW) (- ECC CLS))))))
-     (MIN (MAX ECC CLS) (MIN (+ (- DGR DGR) (+
-         CNT RAD)) CNT)))) (MIN (+ (* EIG CNT) (+
-     (MAX RAD BTW) (* CNT RAD))) (MIN (+ (/ BRG
-     ECC) (MIN CLS BTW)) (+ (* DGR BTW) (MAX DGR
-     BRG)))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+     (MIN BRG ECC) (MIN CLS (* STR CLS)))) (*
+     CNT RAD))) (* (MIN STR BRG) (MIN CLS (* (/
+     (/ BTW ECC) (+ CNT DGR)) (MAX EIG ECC)))))
+     (MAX (/ (/ (* (/ EIG STR) (+ BTW ECC)) (*
+         (MIN (- (MAX DGR DGR) (MAX BTW RAD)) (- (-
+             BTW EIG) (MAX BRG BTW))) (+ CNT DGR))) (*
+         (MIN (/ STR BRG) (+ BRG (MIN BRG EIG))) (*
+         (/ STR BRG) (* STR EIG)))) (* (+ BRG EIG)
+         (MAX EIG ECC)))) (/ (/ (* (/ EIG STR) (+
+     BTW ECC)) (* (+ (+ (+ (MIN (+ (MIN ECC CNT)
+     (+ (MAX BTW (MIN (MIN BRG ECC) (+ BTW ECC)))
+         (* CNT RAD))) CNT) (+ (MAX BTW (- RAD CLS))
+     (* CNT RAD))) (* (MIN STR BRG) (MIN CLS (*
+     STR CLS)))) (MAX (* (MAX ECC CNT) (* CLS
+     STR)) (- (/ CNT CLS) (- RAD CLS)))) (+ BRG
+     ECC))) (* (MIN (/ BTW ECC) (* CNT RAD)) (-
+     DGR CNT))))
 
 Generation: 16
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.77
+Fitness: 0.896551724137931
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (+ (- BTW CLS)
-     (* CNT BRG))) (- (* (+ (* EIG CNT) (+ (/
-     (MAX RAD BTW) (MIN RAD CNT)) (+ ECC BTW)))
-     (* CLS CNT)) (* (MAX BRG STR) (/ CNT BTW))))
-     (/ (+ (- BTW CLS) (* CNT (* (+ CNT RAD) (MIN
-         (+ (/ BRG ECC) (MAX ECC RAD)) (+ (/ CNT BTW)
-         (- ECC CLS)))))) (MIN (MAX ECC CLS) (MIN
-         (+ (MIN (+ (/ BRG ECC) (MIN CLS BTW)) (+
-             (MAX ECC RAD) (MAX DGR BRG))) (/ BRG ECC))
-         CNT)))) (MIN (+ (* EIG CNT) (+ (MAX RAD BTW)
-     (* CNT RAD))) (MIN (+ (/ BRG ECC) (MIN CLS
-     BTW)) (+ (* DGR BTW) (MAX DGR BRG)))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+     (MIN BRG ECC) (+ BTW ECC))) (* CNT RAD)))
+     (* (MIN STR BRG) (MIN CLS (* (/ (/ BTW ECC)
+         (+ CNT DGR)) (MIN BRG ECC))))) (MAX (* (*
+     DGR EIG) (* (/ EIG STR) (/ STR BRG))) (*
+     (+ BRG EIG) (MAX EIG ECC)))) (/ (/ (* (/
+     EIG STR) (+ BTW ECC)) (* (+ (+ (+ (MIN ECC
+     CNT) (+ (MAX BTW (- RAD CLS)) (* CNT RAD)))
+     (* (MIN STR BRG) (MIN CLS (* STR CLS))))
+     (MAX (MAX BTW (MIN (MIN (/ BTW ECC) ECC)
+         (+ BTW ECC))) (- (/ CNT CLS) (- RAD CLS))))
+     (+ BRG ECC))) (/ EIG STR)))
 
 Generation: 17
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.77
+Fitness: 0.896551724137931
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (+ (- BTW CLS)
-     (* CNT BRG))) (MAX BRG STR)) (/ (+ (- BTW
-     CLS) (* CNT (* (+ CNT RAD) (MIN (+ (/ BRG
-     ECC) (MAX ECC RAD)) (+ (/ CNT BTW) (- ECC
-     CLS)))))) (MIN (MAX ECC CLS) (MIN (+ (MIN
-     (+ (/ BRG ECC) (MIN CLS BTW)) (+ (MAX ECC
-     RAD) (MAX DGR BRG))) (MIN (MIN (+ (- DGR
-     DGR) (MIN BRG EIG)) CNT) EIG)) CNT)))) (MIN
-     (+ (* EIG CNT) (+ (MAX RAD BTW) (* CNT RAD)))
-     (MIN (+ (/ BRG ECC) (MIN CLS BTW)) (+ (*
-         DGR BTW) (MAX DGR BRG)))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+     (MIN BRG ECC) (+ BTW ECC))) (* CNT RAD)))
+     (* (MIN STR BRG) (MIN CLS (* (/ (/ BTW ECC)
+         (+ CNT DGR)) (MIN BRG ECC))))) (MAX (* (*
+     DGR EIG) (* (/ EIG STR) (/ STR BRG))) (*
+     (+ BRG EIG) (MAX EIG ECC)))) (/ (/ (* (/
+     EIG STR) (+ BTW ECC)) (* (+ (+ (+ (MIN ECC
+     CNT) (+ (MAX BTW (- RAD CLS)) (* CNT RAD)))
+     (* (MIN STR BRG) (MIN CLS (* STR CLS))))
+     (MAX (MAX BTW (MIN (* (* DGR EIG) (* (/ EIG
+         STR) (/ STR BRG))) (+ BTW ECC))) (- (/ CNT
+         CLS) (- RAD CLS)))) (+ BRG ECC))) (/ EIG
+     STR)))
 
 Generation: 18
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.78
+Fitness: 0.896551724137931
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (+ (- BTW CLS)
-     (* CNT BRG))) (- (MAX RAD BTW) (* (MAX BRG
-     STR) (/ CNT BTW)))) (/ (+ (- BTW CLS) (*
-     CNT (* (+ CNT RAD) (MIN (+ (/ BRG ECC) (MAX
-     ECC RAD)) (+ (/ CNT BTW) (- ECC CLS))))))
-     (MIN (MAX ECC CLS) (MIN (+ (MIN (+ (/ BRG
-         ECC) (MIN CLS BTW)) (+ (MAX ECC RAD) (MAX
-         DGR BRG))) (MIN BRG EIG)) CNT)))) (MIN (+
-     (+ (+ (+ (+ (+ (/ BRG ECC) (MAX ECC RAD))
-         (MAX DGR EIG)) (+ (MAX (* EIG BTW) (MAX EIG
-         CLS)) (+ CNT EIG))) RAD) (+ (MAX RAD BTW)
-         (* CNT RAD))) (+ (MAX RAD BTW) (* CNT RAD)))
-     (MIN (+ (/ BRG ECC) (MIN CLS (/ (MIN (+ ECC
-         BTW) (MIN RAD CNT)) (* (+ CNT RAD) (MIN BTW
-         RAD))))) (+ (* DGR BTW) (MAX DGR BRG)))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+     (MIN BRG ECC) (+ BTW ECC))) (* CNT RAD)))
+     (* (MIN STR BRG) (MIN CLS (* (/ (/ BTW ECC)
+         (+ CNT DGR)) (MIN BRG ECC))))) (MAX (* (*
+     DGR EIG) (* (/ EIG STR) (/ STR BRG))) (*
+     (+ BRG EIG) (MAX EIG ECC)))) (/ (/ (* (/
+     EIG STR) (+ BTW ECC)) (* (+ (+ (+ (MIN ECC
+     CNT) (+ (MAX BTW (- RAD CLS)) (* CNT RAD)))
+     (* (MIN STR BRG) (MIN CLS (* STR CLS))))
+     (MAX (MAX BTW (+ (+ (+ (MIN ECC CNT) (+ (MAX
+         BTW (MIN (MIN BRG ECC) (+ BTW ECC))) (* CNT
+         RAD))) (* (MIN STR BRG) (MIN CLS (* STR CLS))))
+         (* CLS STR))) (- (/ CNT CLS) (- RAD CLS))))
+     (+ BRG ECC))) (/ EIG STR)))
 
 Generation: 19
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.78
+Fitness: 0.896551724137931
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (+ (- BTW CLS)
-     (* CNT BRG))) (MAX ECC CLS)) (/ (+ (- BTW
-     CLS) (* CNT (* (+ CNT RAD) (MIN (+ (/ BRG
-     ECC) (MAX ECC RAD)) (+ (/ CNT BTW) (- ECC
-     CLS)))))) (MIN (MAX ECC CLS) (MIN (+ (MIN
-     (+ (/ BRG ECC) (MIN CLS BTW)) (+ (MAX ECC
-     RAD) (MAX DGR BRG))) (MIN BRG EIG)) CNT))))
-     (MIN (+ (+ (+ (+ (+ (+ (/ BRG ECC) (MAX ECC
-         RAD)) (MAX DGR EIG)) (+ (MAX (* EIG BTW)
-         (MAX EIG CLS)) (+ CNT EIG))) RAD) (+ (MAX
-         RAD BTW) (* CNT RAD))) (+ (MAX RAD BTW) (*
-         CNT RAD))) (MIN (+ (/ BRG ECC) (MIN CLS (/
-         (MIN (+ ECC BTW) (MIN RAD CNT)) (* (+ CNT
-         RAD) (MIN BTW RAD))))) (+ (* DGR BTW) (MAX
-         DGR BRG)))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+     (MIN BRG ECC) (+ BTW ECC))) (* CNT RAD)))
+     (* (MIN STR BRG) (MIN CLS (* (/ (/ BTW ECC)
+         (+ CNT DGR)) (MIN BRG ECC))))) (MAX (* (*
+     DGR EIG) (* (/ EIG STR) (/ STR BRG))) (*
+     (+ BRG EIG) (MAX EIG ECC)))) (/ (/ (* (/
+     EIG STR) (+ BTW ECC)) (* (+ (+ (+ (MIN ECC
+     CNT) (+ (MAX BTW (- RAD CLS)) (* CNT RAD)))
+     (* (MIN STR BRG) (MIN CLS (* STR CLS))))
+     (/ (/ (/ STR BRG) (* ECC (+ BRG ECC))) (*
+         (MIN (MIN BTW RAD) (* CNT RAD)) (+ (MIN ECC
+         CNT) (* CNT (- (/ CNT CLS) (- RAD CLS)))))))
+     (+ BRG ECC))) (/ EIG STR)))
 
 Generation: 20
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.78
+Fitness: 0.896551724137931
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (+ (- BTW CLS)
-     (* CNT BRG))) (- (MAX RAD BTW) (* (- ECC
-     CLS) (/ CNT BTW)))) (/ (+ (- BTW CLS) (*
-     CNT (* (+ CNT RAD) (MIN (+ (/ BRG ECC) (MAX
-     ECC RAD)) (+ (/ CNT BTW) (- ECC CLS))))))
-     (MIN (MAX ECC CLS) (MIN (+ (MIN (+ (/ BRG
-         ECC) (MIN CLS BTW)) (+ (MAX ECC RAD) (MAX
-         DGR BRG))) (MIN BRG EIG)) CNT)))) (MIN (+
-     (+ (+ (+ (+ (+ (/ BRG ECC) (MAX ECC RAD))
-         (MAX DGR EIG)) (+ (MAX (* EIG BTW) (MAX EIG
-         CLS)) (+ CNT EIG))) RAD) (+ (MAX RAD BTW)
-         (* CNT RAD))) (+ (MAX RAD BTW) (* CNT RAD)))
-     (MIN (+ (/ BRG ECC) (MIN CLS (/ (MIN (+ ECC
-         BTW) (MIN RAD CNT)) (* (+ CNT RAD) (MIN BTW
-         (* EIG CNT)))))) (+ (* DGR BTW) (MAX DGR
-         BRG)))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+     (MIN BRG ECC) (+ BTW ECC))) (* CNT RAD)))
+     (* (MIN STR BRG) (MIN (+ BRG EIG) (* (/ (/
+         BTW ECC) (+ CNT DGR)) (MIN BRG ECC))))) (MAX
+     (* (* DGR EIG) (* (/ EIG STR) (/ STR BRG)))
+     (* (+ BRG EIG) (MAX EIG ECC)))) (/ (/ (*
+     (/ EIG STR) (+ BTW ECC)) (* (+ (+ (+ (MIN
+     ECC (MIN ECC CNT)) (+ (MAX BTW (- RAD CLS))
+     (* CNT RAD))) (* (MIN STR BRG) (MIN CLS (*
+     STR CLS)))) (MAX (MAX BTW (MIN (* (* DGR
+     EIG) (* (/ EIG STR) (/ STR BRG))) (+ BTW
+     ECC))) (- (/ CNT CLS) (- RAD CLS)))) (+ BRG
+     ECC))) (/ EIG STR)))
 
 Generation: 21
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.78
+Fitness: 0.9310344827586207
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (+ (- BTW CLS)
-     (* CNT BRG))) (- (MAX RAD BTW) (* (- ECC
-     CLS) (/ CNT BTW)))) (/ (+ (- BTW CLS) (*
-     CNT (* (+ CNT RAD) (MIN (+ (/ BRG ECC) (MAX
-     ECC RAD)) (+ (/ CNT BTW) (- ECC CLS))))))
-     (MIN (/ CNT BTW) (MIN (+ (MIN (+ (/ BRG ECC)
-         (MIN CLS BTW)) (+ (MAX ECC RAD) (MAX DGR
-         BRG))) (MIN BRG EIG)) CNT)))) (MIN (+ (+
-     (+ (+ (+ (+ (/ BRG ECC) (MAX ECC RAD)) (MAX
-         DGR EIG)) (+ (MAX (* EIG BTW) (MAX EIG CLS))
-         (+ CNT EIG))) RAD) (+ (MAX RAD BTW) (* CNT
-     RAD))) (+ (MAX RAD BTW) (* CNT RAD))) (MIN
-     (+ (/ BRG ECC) (MIN CLS (/ (MIN (+ ECC BTW)
-         (MIN RAD CNT)) (* (+ CNT RAD) (MIN BTW (*
-         EIG CNT)))))) (+ (* DGR BTW) (MAX DGR BRG)))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+     (+ (MAX BTW (- RAD CLS)) (* CNT RAD)) (+
+     BTW ECC))) (* CNT RAD))) (* (MIN STR BRG)
+     (MIN CLS (* (/ (/ BTW ECC) (+ CNT DGR)) (MIN
+         BRG ECC))))) (MAX (* (MAX EIG ECC) (* (/
+     EIG STR) (/ STR BRG))) (* (MIN ECC CNT) (MAX
+     EIG ECC)))) (/ (/ (MAX (* CNT RAD) (MIN (MIN
+     (/ BTW ECC) ECC) (+ BTW ECC))) (* (+ (+ (+
+     (MIN ECC CNT) (+ (MAX BTW (- RAD CLS)) (*
+     CNT RAD))) (* (MIN STR BRG) (MIN CLS (* STR
+     CLS)))) (MAX (MAX BTW (MIN (MIN (/ BTW ECC)
+     ECC) (+ BTW ECC))) (- (- RAD CLS) (- RAD
+     CLS)))) (+ BRG ECC))) (/ EIG STR)))
 
 Generation: 22
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.78
+Fitness: 0.9310344827586207
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (+ (- BTW CLS)
-     (* CNT BRG))) (- (MAX RAD BTW) (* (- ECC
-     CLS) (/ CNT BTW)))) (/ (+ (- BTW CLS) (*
-     CNT (* (+ CNT RAD) (MIN (+ (/ BRG ECC) (MAX
-     ECC RAD)) (+ (/ CNT BTW) (- ECC CLS))))))
-     (MIN (MAX ECC CLS) (MIN (+ (MIN (+ (/ BRG
-         ECC) (MIN CLS BTW)) (+ (MAX ECC RAD) (MAX
-         DGR BRG))) (MIN BRG EIG)) CNT)))) (MIN (+
-     (+ (+ (+ (+ (+ (/ BRG ECC) (MAX ECC RAD))
-         (MAX DGR EIG)) (+ (MAX (* EIG BTW) (MAX EIG
-         CLS)) (+ CNT EIG))) RAD) (+ (MAX RAD BTW)
-         (* CNT RAD))) (+ (MAX RAD BTW) (* CNT RAD)))
-     (MIN (+ (/ BRG ECC) (MIN CLS (/ (MIN (+ (-
-         BTW CLS) (* CNT BRG)) (MIN RAD CNT)) (* (+
-         CNT RAD) (MIN BTW (* EIG CNT)))))) (- ECC
-         CLS))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+     (+ (MAX BTW (- RAD CLS)) (* CNT RAD)) (+
+     BTW ECC))) (* CNT RAD))) (* (MIN STR BRG)
+     (MIN CLS (* (/ (/ BTW ECC) (+ CNT DGR)) (MIN
+         BRG ECC))))) (MAX (* (MAX EIG ECC) (* (/
+     EIG STR) (/ STR BRG))) (* (MIN ECC CNT) (MAX
+     EIG ECC)))) (/ (/ (MAX (* CNT RAD) (MIN (MIN
+     (/ BTW ECC) ECC) (+ BTW ECC))) (* (+ (+ (+
+     (MIN ECC CNT) (+ (MAX BTW (- RAD CLS)) (*
+     CNT RAD))) (* (MIN STR BRG) (MIN CLS (* STR
+     CLS)))) (MAX (MAX BTW (MIN (MIN (/ BTW ECC)
+     ECC) (+ BTW ECC))) (- (- RAD CLS) (- RAD
+     CLS)))) (+ BRG ECC))) (/ EIG STR)))
 
 Generation: 23
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.79
+Fitness: 0.9310344827586207
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (+ (- BTW CLS)
-     (* CNT BRG))) (MAX ECC CLS)) (/ (+ (- BTW
-     CLS) (* CNT (* (+ CNT RAD) (MIN (+ (+ (+
-     CNT DGR) (+ (- BTW CLS) (* CNT BRG))) (-
-     BTW CLS)) (+ (/ CNT BTW) (- ECC CLS))))))
-     (MIN (MIN (- (+ BTW BRG) (/ (MIN (+ (+ (-
-         DGR DGR) (MIN BRG EIG)) BTW) (MIN RAD CNT))
-         (* (+ CNT RAD) CLS))) CNT) (MIN (+ (MIN (+
-         (/ BRG ECC) (MIN CLS BTW)) (+ (MAX ECC RAD)
-         (MAX DGR BRG))) (MIN BRG EIG)) CNT)))) (MIN
-     (+ (+ (+ (+ (+ (+ (/ BRG ECC) (MAX ECC RAD))
-         (MAX DGR EIG)) (+ (MAX (* EIG BTW) (MAX EIG
-         CLS)) (+ CNT EIG))) RAD) (+ (MAX RAD BTW)
-         (* CNT RAD))) (+ (MAX RAD BTW) (* CNT RAD)))
-     (MIN (+ (/ BRG ECC) (MIN CLS (/ (MIN (+ ECC
-         BTW) (MIN RAD CNT)) (* (+ CNT RAD) (MIN BTW
-         RAD))))) (+ (* DGR BTW) (MAX DGR BRG)))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+     (MIN BRG ECC) (+ BTW ECC))) (* CNT RAD)))
+     (* (MIN STR BRG) (MIN CLS (* (/ (/ BTW ECC)
+         (+ CNT DGR)) (MIN BRG ECC))))) (MAX (* (*
+     DGR EIG) (* (/ EIG STR) (/ STR BRG))) (*
+     (+ BRG EIG) (MAX EIG ECC)))) (/ (/ (MIN BRG
+     ECC) (* (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW
+     (- RAD CLS)) (* CNT RAD))) (* (MIN STR BRG)
+     (MIN CLS (* STR CLS)))) (MAX (MAX BTW (+
+     (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN (MIN
+         BRG ECC) (+ BTW ECC))) (* CNT RAD))) (* (MAX
+         EIG ECC) (MIN CLS (* STR CLS)))) (* CLS STR)))
+     (* STR EIG))) (+ BRG ECC))) (/ EIG STR)))
 
 Generation: 24
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.79
+Fitness: 0.9310344827586207
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (+ (- BTW CLS)
-     (* CNT BRG))) (MAX ECC CLS)) (/ (+ (- BTW
-     CLS) (* CNT (* (+ CNT RAD) (MIN (+ (+ (+
-     CNT DGR) (+ (- BTW CLS) (* CNT BRG))) (-
-     BTW CLS)) (+ (/ CNT BTW) (- ECC CLS))))))
-     (MIN (MIN (- (+ BTW BRG) (/ (MIN (+ (+ (-
-         DGR DGR) (MIN BRG EIG)) BTW) (MIN RAD CNT))
-         (* (+ CNT RAD) CLS))) CNT) (MIN (+ (MIN (+
-         (/ BRG ECC) (MIN CLS BTW)) (+ (MAX ECC RAD)
-         (MAX DGR BRG))) (MIN BRG EIG)) CNT)))) (MIN
-     (+ (+ (+ (+ (+ (+ (/ BRG ECC) (+ (MAX RAD
-         BTW) (* CNT RAD))) (MAX DGR EIG)) (+ (MAX
-         (* EIG BTW) (MAX EIG CLS)) (+ CNT EIG)))
-         RAD) (+ (MAX RAD BTW) (* CNT RAD))) (+ (MAX
-         RAD BTW) (* CNT RAD))) (MIN (+ (/ BRG ECC)
-     (MIN CLS (/ (MIN (+ ECC BTW) (MIN RAD CNT))
-         (* (+ CNT RAD) (MIN BTW RAD))))) (+ (* DGR
-     BTW) (MAX DGR BRG)))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (/
+     CNT CLS)) (* CNT RAD))) (* (+ BRG EIG) (MIN
+     CLS (* (/ (/ BTW ECC) (+ CNT DGR)) (MIN BRG
+     ECC))))) (MAX (* (MAX EIG ECC) (* (/ EIG
+     STR) (/ STR BRG))) (* (MIN ECC CNT) (MAX
+     EIG ECC)))) (/ (/ (MAX (* CNT RAD) (MIN (MIN
+     (/ BTW ECC) ECC) (+ BTW ECC))) (* (+ (+ (+
+     (MIN ECC CNT) (+ (MAX BTW (- RAD CLS)) (*
+     CNT RAD))) (* (MIN STR BRG) (MIN CLS (* STR
+     CLS)))) (MAX (MAX BTW (MIN (MIN (/ BTW ECC)
+     ECC) (+ BTW ECC))) (- (- RAD CLS) (- RAD
+     CLS)))) (+ BRG ECC))) (/ EIG STR)))
 
 Generation: 25
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.79
+Fitness: 0.9310344827586207
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (+ (- BTW CLS)
-     (* CNT BRG))) (MAX ECC CLS)) (/ (+ (- BTW
-     CLS) (* CNT (* (+ CNT RAD) (MIN (+ (+ (+
-     CNT DGR) (+ (- BTW CLS) (* CNT BRG))) (-
-     BTW CLS)) (+ (/ CNT BTW) (- ECC CLS))))))
-     (MIN (MIN (- (+ BTW BRG) (/ (MIN (+ (+ (*
-         DGR BTW) (MAX DGR BRG)) BTW) (MIN RAD CNT))
-         (* (+ CNT RAD) CLS))) CNT) (MIN (+ (MIN (+
-         (/ BRG ECC) (MIN CLS BTW)) (/ BRG ECC)) (MIN
-         BRG EIG)) CNT)))) (MIN (+ (+ (+ (+ (+ (+
-     (/ BRG ECC) (MAX ECC RAD)) (MAX DGR EIG))
-     (+ (MAX (* EIG BTW) (MAX EIG CLS)) (+ CNT
-         EIG))) RAD) (+ (MAX RAD BTW) (* CNT RAD)))
-     (+ (MAX RAD BTW) (* CNT RAD))) (MIN (+ (/
-     BRG ECC) (MIN CLS (/ (MIN (+ ECC BTW) (MIN
-     RAD CNT)) (* (+ CNT RAD) (MIN BTW RAD)))))
-     (+ (* DGR BTW) (MAX DGR BRG)))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+     (+ (MAX BTW (- RAD CLS)) (* CNT RAD)) (+
+     BTW ECC))) (* CNT RAD))) (* (MIN STR BRG)
+     (MIN CLS (* (/ (/ BTW ECC) (+ CNT DGR)) (MIN
+         BRG ECC))))) (MAX (* (MAX EIG ECC) (* (/
+     EIG STR) (/ STR BRG))) (* (MIN ECC CNT) (MAX
+     EIG ECC)))) (/ (/ (MAX (* CNT RAD) (MIN (MIN
+     (/ BTW ECC) ECC) (+ BTW ECC))) (* (+ (+ (+
+     (MIN ECC CNT) (+ (MAX BTW (- RAD CLS)) (*
+     CNT RAD))) (* (MIN STR BRG) (MIN CLS (* STR
+     CLS)))) (MAX (MAX BTW (MIN (MIN (/ BTW ECC)
+     ECC) (+ BTW ECC))) (- (- RAD CLS) (- RAD
+     CLS)))) (+ BRG ECC))) (/ EIG STR)))
 
 Generation: 26
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.79
+Fitness: 0.9310344827586207
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (+ (MAX (+ (*
-     CNT BRG) (+ (* (+ CNT RAD) (MIN BTW RAD))
-     (/ BTW (- (/ (MAX RAD STR) (/ DGR BRG)) (MIN
-         (+ CLS CNT) (* DGR BTW)))))) (- BTW CLS))
-     (* CNT BRG))) BRG) (/ (+ (- BTW CLS) (* CNT
-     (* (+ CNT RAD) (MIN (+ (+ (+ CNT DGR) (+
-         (- BTW CLS) (* CNT BRG))) (- BTW CLS)) (+
-         (/ CNT BTW) (- ECC CLS)))))) (MIN (MAX ECC
-     CLS) (MIN (+ (- DGR DGR) (+ CNT RAD)) CNT))))
-     (MIN (+ (* EIG CNT) (+ (- (MAX RAD BTW) (*
-         (+ (+ (+ (+ (+ (/ BRG ECC) (MAX ECC RAD))
-             (MAX DGR EIG)) (+ (MAX (* EIG BTW) (MAX EIG
-             CLS)) (+ CNT EIG))) RAD) BRG) (/ CNT BTW)))
-         (* CNT RAD))) (MIN (+ (/ BRG ECC) (MIN CLS
-         BTW)) (+ (MAX (* EIG BTW) (MAX EIG CLS))
-         (MIN (+ (* EIG CNT) (+ (MAX RAD BTW) (* CNT
-             RAD))) (MIN (+ (/ BRG ECC) (MIN CLS BTW))
-             (+ (MAX DGR EIG) (- BTW CLS))))))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+     (+ (MAX BTW (- RAD CLS)) (* CNT RAD)) (+
+     BTW ECC))) (* CNT RAD))) (* (MIN STR BRG)
+     (MIN CLS (* (/ (/ BTW ECC) (+ CNT DGR)) (MIN
+         BRG ECC))))) (MAX (* (MAX EIG ECC) (* (/
+     EIG STR) (* (+ (+ (+ (MIN ECC CNT) (+ (MIN
+     ECC CNT) (- RAD CLS))) (* (MIN STR BRG) (*
+     (MAX EIG ECC) (* (/ EIG STR) (/ STR BRG)))))
+     (MAX (* (* DGR EIG) (* CLS STR)) (- (* (*
+         DGR EIG) (* (/ EIG STR) (/ STR BRG))) (-
+         RAD CLS)))) (+ (MIN STR BRG) ECC)))) (* (MIN
+     ECC CNT) (MAX EIG ECC)))) (/ (/ (MAX (* CNT
+     RAD) (MIN (MIN (/ BTW ECC) ECC) (+ BTW ECC)))
+     (* (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (-
+         RAD CLS)) (* CNT RAD))) (* (MIN STR BRG)
+         (MIN CLS (* STR CLS)))) (MAX (MAX BTW (MIN
+         (MIN (/ BTW ECC) ECC) (+ (MIN ECC CNT) (+
+         (MAX BTW (- RAD CLS)) (* CNT RAD))))) (-
+         (- RAD CLS) (- RAD CLS)))) (+ BRG ECC)))
+     (/ EIG STR)))
 
 Generation: 27
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.79
+Fitness: 0.9310344827586207
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (+ (- BTW CLS)
-     (* CNT BRG))) (MAX ECC CLS)) (/ (+ (- BTW
-     CLS) (* CNT (* (MIN RAD CNT) (MIN (+ (+ (+
-     CNT DGR) (+ (- BTW CLS) (* CNT BRG))) (-
-     BTW CLS)) (+ (/ CNT BTW) (- ECC CLS))))))
-     (MIN (MIN (- (+ BTW BRG) (/ (MIN (+ (+ (-
-         DGR DGR) (MIN BRG EIG)) BTW) (MIN RAD CNT))
-         (* (+ CNT RAD) CLS))) CNT) (MIN (+ (MIN (+
-         (/ BRG ECC) (MIN CLS BTW)) (+ (MAX ECC RAD)
-         (MAX DGR BRG))) (MIN BRG EIG)) CNT)))) (MIN
-     (+ (+ (+ (+ (+ (+ (/ BRG ECC) (MAX ECC RAD))
-         (MAX DGR EIG)) (+ (MAX (* EIG BTW) (MAX EIG
-         CLS)) (+ CNT EIG))) RAD) (+ (MAX RAD BTW)
-         (* CNT RAD))) (+ (+ (+ (+ (+ (+ (/ BRG ECC)
-         (MAX ECC RAD)) (MAX DGR EIG)) (+ (MAX (+
-         CNT RAD) (MAX EIG CLS)) (+ CNT EIG))) RAD)
-         (+ (MAX RAD BTW) (* CNT RAD))) (+ (MAX RAD
-         BTW) (* CNT RAD)))) (MIN (+ (/ BRG ECC) (MIN
-     CLS (/ (MIN (+ ECC BTW) (MIN RAD CNT)) (*
-     (+ CNT RAD) (MIN BTW RAD))))) (+ (* DGR BTW)
-     (MAX DGR BRG)))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+     (/ BTW ECC) ECC)) (* CNT RAD))) (* (MIN STR
+     BRG) (MIN CLS (* (/ (/ BTW ECC) (+ CNT DGR))
+     (MIN BRG ECC))))) (MIN CLS (* STR CLS)))
+     (/ (/ (MAX (/ (/ (* (/ EIG STR) (+ BTW ECC))
+         (* (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (-
+             RAD CLS)) (* (* (/ EIG STR) (/ STR BRG))
+             RAD))) (* (MIN ECC CNT) (MIN CLS (* STR CLS))))
+             (MAX (MAX BTW (MIN (MIN (/ BTW ECC) ECC)
+                 (+ BTW ECC))) (- (/ CNT CLS) (- RAD CLS))))
+             (+ BRG ECC))) (/ EIG STR)) (MIN (MIN (/ BTW
+         ECC) ECC) (+ BTW ECC))) (* (+ (+ (+ (MIN
+         ECC CNT) (+ (MAX BTW (- RAD CLS)) (* CNT
+         RAD))) (* (MIN STR BRG) (MIN CLS (* STR CLS))))
+         (MAX (MAX BTW (MIN (MIN (/ BTW ECC) ECC)
+             (+ BTW ECC))) (+ (+ (MIN ECC CNT) (+ (MAX
+             BTW (MIN (+ (MAX BTW (- RAD CLS)) (* CNT
+             RAD)) (+ BTW ECC))) (* CNT RAD))) (* (MIN
+             STR BRG) (MIN CLS (* (/ (/ BTW ECC) (+ CNT
+             DGR)) (MIN BRG ECC))))))) (+ BRG ECC))) (/
+         EIG STR)))
 
 Generation: 28
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.79
+Fitness: 0.9310344827586207
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (+ (- BTW CLS)
-     (* CNT BRG))) (MAX ECC CLS)) (/ (+ (- BTW
-     CLS) (* CNT (* (+ CNT RAD) (MIN (+ (+ (+
-     CNT DGR) (+ (- BTW CLS) (* CNT BRG))) (-
-     BTW CLS)) (+ (/ CNT BTW) (- ECC CLS))))))
-     (MIN (MIN (- (+ BTW BRG) (/ (MIN (+ (+ (-
-         DGR DGR) (MIN BRG EIG)) BTW) (MIN RAD CNT))
-         (* (* EIG CNT) CLS))) CNT) (MIN (+ (MIN (+
-         (/ BRG ECC) (MIN CLS BTW)) (+ (MAX ECC RAD)
-         (MAX DGR BRG))) (* DGR BTW)) CNT)))) (MIN
-     (+ (+ (+ (+ (+ (+ (/ BRG ECC) (+ (MAX RAD
-         BTW) (* CNT RAD))) (MAX DGR EIG)) (+ (MAX
-         (* EIG BTW) (MAX EIG CLS)) (+ CNT EIG)))
-         RAD) (MIN (MAX (/ (+ (+ CNT DGR) (+ (- BTW
-         CLS) (* CNT BRG))) (- (MAX RAD BTW) (/ CNT
-         BTW))) (/ (+ (- BTW CLS) (* CNT (* (+ CNT
-         RAD) (MIN (+ (/ BRG ECC) (MAX ECC RAD)) (+
-         (/ CNT BTW) (- ECC CLS)))))) (MIN (MAX ECC
-         CLS) (MIN (+ (+ (* CNT BRG) (MIN BRG EIG))
-         (+ CNT EIG)) CNT)))) (MIN (+ (+ (+ (+ (+
-         (+ (/ BRG ECC) (MAX ECC RAD)) (MAX DGR EIG))
-         (+ (MAX (* EIG BTW) (MAX EIG CLS)) (+ CNT
-             EIG))) RAD) (+ (MAX RAD BTW) (* CNT RAD)))
-         (+ (MAX RAD BTW) (* CNT RAD))) (MIN (+ (/
-         BRG ECC) (MIN CLS (/ (MIN (+ ECC BTW) (MIN
-         RAD CNT)) (* (+ EIG (* CNT RAD)) (MIN BTW
-         (* EIG CNT)))))) (+ (* DGR BTW) (MAX DGR
-         BRG)))))) (+ (MAX RAD BTW) (* CNT RAD)))
-     (MIN (+ (/ BRG ECC) (MIN CLS (/ (MIN (+ ECC
-         BTW) (MIN RAD CNT)) (* (+ CNT RAD) (MIN BTW
-         RAD))))) (+ (* DGR BTW) (MAX DGR BRG)))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (-
+     RAD CLS)) (* CNT RAD))) (* (MIN STR BRG)
+     (MIN CLS (* (/ (/ BTW ECC) (+ CNT DGR)) (MIN
+         BRG ECC))))) (MAX (* (* DGR EIG) (* (/ EIG
+     STR) (/ STR BRG))) (* (+ BRG EIG) (MAX EIG
+     ECC)))) (/ (/ (MIN BRG ECC) (* (+ (+ (+ (MIN
+     ECC CNT) (+ (MAX BTW (- RAD CLS)) (* CNT
+     RAD))) (* (MIN STR BRG) (MIN CLS (/ BTW ECC))))
+     (MAX (MAX BTW (+ (+ (+ (MIN ECC CNT) BRG)
+         (* (MAX EIG ECC) (* (MIN STR BRG) (MIN CLS
+             (* (/ (/ BTW ECC) (+ CNT DGR)) (MIN BRG ECC))))))
+         (* CLS STR))) (* STR (* (/ EIG STR) (+ BTW
+         ECC))))) (+ BRG ECC))) (/ EIG STR)))
 
 Generation: 29
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.79
+Fitness: 0.9310344827586207
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (+ (- BTW CLS)
-     (* CNT BRG))) (MAX ECC CLS)) (/ (+ (- BTW
-     CLS) (* CNT (* (+ CNT RAD) (MIN (+ (+ (+
-     CNT DGR) (+ (- BTW CLS) (* CNT BRG))) (-
-     BTW CLS)) (+ (/ CNT BTW) (- ECC CLS))))))
-     (MIN (MIN (- (+ BTW BRG) (/ (MIN (+ (/ (MIN
-         (+ ECC BTW) (MIN RAD CNT)) (* (+ ECC BTW)
-         (MIN BTW RAD))) BTW) (MIN RAD CNT)) (* (+
-         CNT RAD) CLS))) CNT) (MIN (+ (MIN (+ (/ BRG
-         ECC) (MIN CLS BTW)) STR) (MIN BRG EIG)) CNT))))
-     (MIN (+ (+ (+ (+ (+ (+ (/ BRG ECC) (+ (MAX
-         RAD BTW) (* CNT RAD))) (MAX DGR EIG)) (+
-         (MAX ECC (MAX EIG CLS)) (+ CNT EIG))) RAD)
-         (+ (MAX RAD BTW) (* CNT RAD))) (+ (MAX RAD
-         BTW) (* CNT RAD))) (MIN (+ (/ BRG ECC) (MIN
-         CLS (/ (MIN (+ ECC BTW) (MIN RAD CNT)) (*
-         (- BTW CLS) (MIN BTW RAD))))) (+ (* DGR BTW)
-         (MAX DGR BRG)))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+     (+ (MAX BTW (+ BTW ECC)) (+ BTW ECC)) (+
+     BTW ECC))) (* CNT RAD))) (* (MIN STR BRG)
+     (MIN CLS (* (/ (/ BTW ECC) (+ CNT DGR)) (MIN
+         BRG ECC))))) (MIN (MIN BRG ECC) (+ BTW ECC)))
+     (/ (/ (MAX (* CNT RAD) (MIN (MIN (/ BTW ECC)
+         ECC) (+ BTW ECC))) (* (+ (+ (+ (MIN ECC CNT)
+         (+ (MAX BTW (- RAD CLS)) (* CNT RAD))) (*
+         (MIN STR BRG) (MIN CLS (* STR CLS)))) (MAX
+         (MAX BTW (MIN (MIN (/ BTW ECC) ECC) (+ (MIN
+             ECC CNT) (+ (MAX BTW (- RAD CLS)) (* CNT
+             RAD))))) (- (- RAD CLS) (MAX EIG ECC))))
+         (+ BRG ECC))) (/ EIG STR)))
 
 Generation: 30
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.79
+Fitness: 0.9310344827586207
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (+ (MAX (+ (*
-     CNT BRG) (+ (* (+ CNT RAD) (MIN BTW RAD))
-     (/ BTW (- (/ (MAX RAD STR) (/ DGR BRG)) (MIN
-         (+ CLS CNT) (MIN (+ (/ BRG ECC) (MIN CLS
-         BTW)) (+ (MAX ECC RAD) (MAX DGR BRG))))))))
-     (- BTW CLS)) (* CNT BRG))) BRG) (/ (+ (-
-     BTW CLS) (* CNT (* (+ CNT RAD) (MIN (+ (+
-     (+ CNT DGR) (+ (- BTW CLS) (* CNT BRG)))
-     (- BTW CLS)) (+ (/ CNT BTW) (- ECC CLS))))))
-     (MIN (MAX ECC CLS) (MIN (+ (- DGR DGR) (+
-         CNT RAD)) CNT)))) (MIN (+ (* EIG CNT) (+
-     (- (MAX RAD BTW) (* (+ (+ (+ (+ (+ (/ BRG
-         ECC) (MAX ECC RAD)) (MAX DGR EIG)) (+ (MAX
-         (* EIG BTW) (MAX EIG CLS)) (+ CNT EIG)))
-         RAD) (+ (MAX RAD BTW) (* CNT RAD))) (/ CNT
-         BTW))) (* CNT RAD))) (MIN (+ (/ BRG ECC)
-     (MIN CLS BTW)) (+ (MAX (* EIG (- BTW CLS))
-     (MAX EIG CLS)) (MIN (+ (* EIG CNT) (+ (MAX
-     RAD BTW) (* CNT RAD))) (MIN (MIN BRG EIG)
-     (+ (MAX DGR EIG) (- BTW CLS))))))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+     (+ (MAX BTW (- RAD CLS)) (* CNT RAD)) (+
+     BTW ECC))) (* CNT RAD))) (* (MIN STR BRG)
+     (MIN CLS (* (/ (/ BTW ECC) (+ CNT DGR)) (MIN
+         BRG ECC))))) (MAX (* (MAX EIG ECC) (* (/
+     EIG STR) (/ STR BRG))) (* (MIN ECC CNT) (MAX
+     EIG ECC)))) (/ (/ (MAX (/ (/ (* (/ EIG STR)
+     (+ BTW ECC)) (* (+ (+ (+ (MIN ECC CNT) (+
+     (MAX BTW (- RAD CLS)) (* (* (/ EIG STR) (/
+     STR BRG)) RAD))) (* (MIN STR BRG) (MIN CLS
+     (* STR CLS)))) (MAX (MAX BTW (MIN (MIN (/
+     BTW ECC) ECC) (+ BTW ECC))) (- (/ CNT CLS)
+     (- RAD CLS)))) (+ BRG ECC))) (/ EIG STR))
+     (MIN (MIN (/ BTW ECC) ECC) (+ BTW ECC)))
+     (* (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (-
+         RAD CLS)) (* CNT RAD))) (* (* (/ EIG STR)
+         (/ STR BRG)) (MIN CLS (* STR CLS)))) (MAX
+         (MAX BTW (MIN (MIN (/ BTW ECC) ECC) (MAX
+             EIG ECC))) (- (- RAD CLS) (- RAD CLS))))
+         (+ BRG ECC))) (/ EIG STR)))
 
 Generation: 31
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.79
+Fitness: 0.9310344827586207
 Tree 0:
- (MIN (MAX (MIN (MAX (/ (+ (+ CNT DGR) (+
-     (- BTW CLS) (* CNT BRG))) (MAX ECC CLS))
-     (/ (+ (- BTW CLS) (* CNT (* (+ CNT RAD) (MIN
-         (+ (+ (+ CNT DGR) (+ (- BTW CLS) (* CNT BRG)))
-             (- BTW CLS)) (+ (/ CNT BTW) (- ECC CLS))))))
-         (MIN (MIN (- (+ BTW BRG) (/ (MIN (+ (+ (-
-             DGR (/ CNT BTW)) (MIN BRG EIG)) BTW) (MIN
-             RAD CNT)) (* (+ CNT RAD) CLS))) CNT) (MIN
-             (+ (MIN (+ (/ BRG ECC) (MIN CLS BTW)) (+
-                 (MAX ECC RAD) (MAX DGR BRG))) (MIN BRG EIG))
-             CNT)))) (MIN (+ (+ (+ (+ (+ (+ (/ BRG ECC)
-     (MAX ECC RAD)) (MAX DGR EIG)) (+ (MAX (*
-     EIG BTW) (MAX EIG CLS)) (+ CNT EIG))) RAD)
-     (+ (MAX RAD BTW) (* CNT RAD))) (+ (+ (+ (+
-     (+ (+ (/ BRG ECC) (MAX ECC RAD)) (MAX DGR
-         EIG)) (+ (MAX (* EIG BTW) (MAX EIG CLS))
-     (MAX RAD BTW))) RAD) (+ (MAX RAD BTW) (*
-     CNT RAD))) (+ (MAX RAD BTW) (* CNT RAD))))
-     (MIN (+ (/ BRG ECC) (MIN CLS (/ (MIN (+ ECC
-         BTW) (MIN RAD CNT)) (* (+ CNT RAD) (MIN BTW
-         RAD))))) (+ (* DGR BTW) (MAX DGR BRG)))))
-     (/ (+ (- BTW CLS) (* CNT (* (+ CNT RAD) (MIN
-         (+ (/ BRG ECC) (MAX ECC RAD)) (+ (/ CNT BTW)
-         (- ECC CLS)))))) (+ CNT EIG))) (MIN (+ (+
-     (+ (+ (+ (+ (/ BRG ECC) (MAX ECC RAD)) (MAX
-         DGR EIG)) (+ (* (MIN (+ (+ (* DGR BTW) (MAX
-         DGR BRG)) (MAX ECC RAD)) (+ (/ CNT BTW) (-
-         ECC CLS))) (MIN BTW RAD)) (+ CNT EIG))) RAD)
-     (+ (- BTW CLS) (* CNT RAD))) (+ (MAX RAD
-     BTW) (* CNT RAD))) (MIN (+ (/ BRG ECC) (MIN
-     CLS (/ (MIN (+ (* EIG BTW) BTW) (MIN RAD
-     CNT)) (* (+ (MAX RAD BTW) (* CNT RAD)) (MIN
-     BTW (* EIG CNT)))))) (+ (* DGR BTW) (MAX
-     DGR BRG)))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+     (/ STR BRG) (+ BTW ECC))) (* CNT RAD))) (*
+     (MIN STR BRG) (MIN CLS (* (/ (/ BTW ECC)
+     (+ CNT DGR)) (MIN BRG ECC))))) (MAX (* (/
+     (MAX (* CNT RAD) (/ STR BRG)) (+ CNT DGR))
+     (MIN BRG ECC)) (* (+ BRG EIG) (MAX EIG ECC))))
+     (/ (/ (MIN BRG ECC) (* (+ (+ (+ (MIN ECC
+         CNT) (+ (MAX BTW (- RAD CLS)) (* CNT RAD)))
+         (* (MIN STR BRG) (MIN CLS (* STR CLS))))
+         (MAX (MAX BTW (+ (+ (+ (MIN ECC CNT) (MAX
+             EIG ECC)) (* CLS (MAX EIG ECC))) (* CLS STR)))
+             (* STR EIG))) (+ BRG ECC))) (/ EIG STR)))
 
 Generation: 32
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.79
+Fitness: 0.9310344827586207
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (+ (- BTW CLS)
-     (* CNT BRG))) (MAX ECC CLS)) (/ (+ (- BTW
-     CLS) (* CNT (* (+ CNT RAD) (MIN (+ (+ (+
-     CNT DGR) (+ (- BTW CLS) (* CNT BRG))) (-
-     BTW CLS)) (+ (/ CNT BTW) (- ECC CLS))))))
-     (MIN (MIN (- (+ BTW BRG) (MAX ECC RAD)) CNT)
-         (MIN (+ (MIN (+ (/ BRG ECC) (- BTW CLS))
-             (+ (MAX ECC RAD) (MAX DGR BRG))) (MIN BRG
-             EIG)) CNT)))) (MIN (+ (+ (+ (+ (+ (+ (/ BRG
-     ECC) (MAX ECC RAD)) (MAX DGR EIG)) (+ (MAX
-     (* EIG BTW) (MAX EIG CLS)) (+ (MIN (MIN (MAX
-     ECC CLS) (MIN (+ (MIN (+ (/ BRG ECC) (MIN
-     CLS BTW)) (+ (MAX ECC RAD) (MAX DGR BRG)))
-     (+ CNT EIG)) CNT)) CNT) EIG))) RAD) (+ (MAX
-     RAD BTW) (* CNT RAD))) (+ (+ (+ (+ (+ (+
-     (/ BRG ECC) (MAX ECC RAD)) (MAX DGR EIG))
-     (+ (MAX (* EIG BTW) (MAX EIG CLS)) (+ CNT
-         EIG))) RAD) (+ (MAX RAD BTW) (* CNT RAD)))
-     (+ (MAX RAD BTW) (* CNT RAD)))) (MIN (+ (/
-     BRG ECC) (MIN CLS (/ CNT BTW))) (+ (* DGR
-     BTW) (* CNT RAD)))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+     (MIN BRG ECC) (+ BTW ECC))) (* CNT RAD)))
+     (* (MIN STR BRG) (MIN CLS (* (/ (/ BTW ECC)
+         (+ CNT DGR)) (MIN BRG ECC))))) (MAX (* (*
+     DGR EIG) (* (/ EIG STR) (* (* DGR EIG) (*
+     (/ EIG (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW
+         (- RAD CLS)) (* CNT RAD))) (* (MIN STR BRG)
+         (MIN CLS (* STR CLS)))) (MAX (MAX BTW (MIN
+         (MIN (/ BTW ECC) ECC) (+ BTW ECC))) (- (-
+         RAD CLS) (- RAD CLS))))) (/ STR BRG)))))
+     (* (+ BRG EIG) (MAX EIG ECC)))) (/ (/ (MAX
+     EIG ECC) (* (+ (+ (+ (MIN ECC CNT) (+ (MAX
+     BTW (/ (/ BTW ECC) (+ CNT DGR))) (* CNT RAD)))
+     (* (MIN STR BRG) (MIN CLS (* STR CLS))))
+     (MAX (MAX BTW (+ (+ (+ (MIN ECC CNT) (+ (MAX
+         BTW (MIN (MIN (/ BTW ECC) ECC) (+ BTW ECC)))
+         (* CNT RAD))) (+ BTW (+ (+ (MIN ECC CNT)
+         (+ (MAX BTW (MIN (MIN BRG ECC) (+ BTW ECC)))
+             ECC)) (* (MIN STR BRG) (* STR CLS))))) (MAX
+         (* (* DGR EIG) (* (MIN CLS (* STR CLS)) (MAX
+             EIG ECC))) (* (/ EIG STR) (+ BTW ECC)))))
+         RAD)) (+ BRG ECC))) (/ EIG STR)))
 
 Generation: 33
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.79
+Fitness: 0.9310344827586207
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (+ (- BTW CLS)
-     (* CNT BRG))) (MAX ECC CLS)) (/ (+ (- BTW
-     CLS) (* CNT (* (+ CNT RAD) (MIN (+ (+ (+
-     CNT DGR) (+ (- BTW CLS) (* CNT BRG))) (-
-     BTW CLS)) (+ (/ CNT BTW) (- ECC CLS))))))
-     (MIN (MIN (- (+ BTW BRG) (/ (MIN (+ (+ (-
-         DGR DGR) (MIN BRG EIG)) BTW) (MIN RAD CNT))
-         (* (* EIG CNT) CLS))) CNT) (MIN (+ (MIN (+
-         (/ BRG ECC) (MIN CLS BTW)) (+ (MAX ECC RAD)
-         (MAX DGR BRG))) (* DGR BTW)) CNT)))) (MIN
-     (+ (+ (+ (+ (+ (+ (/ BRG ECC) (+ (MAX RAD
-         BTW) (* CNT RAD))) (MAX DGR EIG)) (+ (MAX
-         (* EIG BTW) (MAX EIG CLS)) (+ CNT EIG)))
-         RAD) (MIN (MAX (/ (+ (+ CNT DGR) (+ (- BTW
-         CLS) (* CNT BRG))) (- (MAX RAD BTW) (/ CNT
-         BTW))) (/ (+ (- BTW CLS) (* CNT (* (+ CNT
-         RAD) (MIN (+ (/ BRG ECC) (MAX ECC RAD)) (+
-         ECC (- ECC CLS)))))) (MIN (MAX ECC CLS) (MIN
-         (+ (+ (* CNT BRG) (MIN BRG EIG)) (+ CNT EIG))
-         CNT)))) (MIN (+ (+ (+ (+ (+ (+ (/ BRG ECC)
-         (MAX ECC RAD)) (MAX DGR EIG)) (+ (MAX (*
-         EIG BTW) (MAX EIG CLS)) (+ CNT EIG))) RAD)
-         (+ (MAX RAD BTW) (* CNT RAD))) (+ (MAX RAD
-         BTW) (* CNT RAD))) (MIN (+ (/ BRG ECC) (MIN
-         CLS (/ (MIN (+ ECC BTW) (MIN RAD CNT)) (*
-         (+ EIG (* CNT RAD)) (MIN BTW (* EIG CNT))))))
-         (+ (* DGR BTW) (MAX DGR BRG)))))) (+ (MAX
-         RAD BTW) (* CNT RAD))) (MIN (+ (+ ECC BTW)
-     (MIN CLS (/ (MIN (+ ECC (/ (+ (+ CNT DGR)
-         (+ (- BTW CLS) (* CNT BRG))) (MAX ECC CLS)))
-         (MIN RAD CNT)) (* (+ CNT RAD) (MIN BTW RAD)))))
-     (+ (* DGR BTW) (MAX DGR BRG)))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+     (MIN BRG ECC) (* DGR EIG))) (* CNT RAD)))
+     (* (MIN STR BRG) (MIN CLS (* (/ (/ BTW ECC)
+         (+ CNT DGR)) (MIN BRG ECC))))) (MAX (* (*
+     DGR EIG) (* (/ EIG STR) (* CNT (* (/ EIG
+     STR) (/ STR BRG))))) (* (+ BRG EIG) (MAX
+     EIG ECC)))) (/ (/ (MAX EIG ECC) (* (+ (+
+     (+ (MIN ECC CNT) (+ (MAX BTW (MIN CLS (*
+         (/ (/ BTW ECC) (+ CNT DGR)) (MIN BRG ECC))))
+         (* CNT RAD))) (* (MIN STR BRG) (MIN CLS (MAX
+     EIG ECC)))) (MAX (MAX BTW (+ (MIN STR BRG)
+     (MIN BRG ECC))) RAD)) (+ BRG ECC))) (/ EIG
+     STR)))
 
 Generation: 34
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.79
+Fitness: 0.9310344827586207
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (+ (- BTW CLS)
-     (* CNT BRG))) (MAX ECC CLS)) (/ (+ (- BTW
-     CLS) (* CNT (* (+ CNT RAD) (MIN (+ (+ (+
-     CNT DGR) (+ (- BTW CLS) (* CNT BRG))) (-
-     BTW CLS)) (+ (/ CNT BTW) (- ECC CLS))))))
-     (MIN (MIN (- (MAX DGR EIG) (/ (MIN (+ (+
-         (- DGR DGR) (MIN BRG EIG)) BTW) (MIN (+ (*
-         EIG CNT) (+ (MAX RAD BTW) (* CNT RAD))) (MIN
-         (+ (/ BRG ECC) (MIN CLS BTW)) DGR))) (* (+
-         CNT DGR) CLS))) CNT) (MIN (+ (+ (+ (+ (+
-         (+ (/ BRG ECC) (MAX ECC RAD)) (MAX DGR EIG))
-         (+ (MAX (* EIG BTW) (MAX EIG CLS)) (+ CNT
-             EIG))) RAD) (+ (MAX RAD BTW) (* CNT RAD)))
-         (MAX DGR EIG)) CNT)))) (MIN (+ (+ (+ (+ (+
-     (+ (/ BRG ECC) (MAX ECC RAD)) (MAX DGR EIG))
-     (+ (MAX (+ (MAX RAD BTW) (* CNT RAD)) (MAX
-         EIG CLS)) (+ CNT EIG))) RAD) (+ (MAX RAD
-     BTW) (* CNT RAD))) (+ (MAX RAD BTW) (* CNT
-     RAD))) (MIN (+ (/ BRG ECC) (MIN CLS (/ (MIN
-     (+ ECC BTW) (MIN RAD CNT)) (* (+ CNT RAD)
-     (MIN BTW RAD))))) (+ (* DGR BTW) (MAX DGR
-     (+ (+ CNT DGR) (+ (- BTW CLS) (* CNT BRG))))))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+     (MIN BRG ECC) (+ (+ (+ (MAX BTW (MIN ECC
+     CNT)) (+ (MAX BTW (- (MIN (MIN BRG ECC) (+
+     BTW ECC)) CLS)) (* CNT RAD))) (* (MAX BTW
+     (MIN (MIN (/ BTW ECC) ECC) (+ BTW ECC)))
+     (MIN CLS (* STR CLS)))) (MAX (MAX BTW (+
+     (+ (+ (MIN ECC CNT) (/ (/ BTW ECC) (+ CNT
+         DGR))) (+ BTW ECC)) (MAX (* (/ EIG STR) (*
+     CLS STR)) (- (/ CNT CLS) (- RAD CLS)))))
+     (/ BTW ECC))))) (* CNT RAD))) (* (MIN STR
+     BRG) (MIN CLS (* (/ (/ BTW ECC) (+ CNT DGR))
+     (MIN BRG ECC))))) (MAX (* (* DGR EIG) (*
+     (/ EIG STR) (/ STR BRG))) (* (+ BRG EIG)
+     (MAX EIG ECC)))) (/ (/ (MIN BRG ECC) (* (+
+     (+ (+ (MIN ECC CNT) (+ (MAX BTW (+ (+ (MIN
+         BRG ECC) (* (MIN STR BRG) (MIN CLS (* STR
+         CLS)))) (/ CNT CLS))) (* CNT RAD))) (* (MIN
+         STR BRG) (MIN CLS (* STR CLS)))) (MAX (MAX
+     BTW (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+     (MIN BRG ECC) (+ BTW ECC))) (* CNT RAD)))
+     (MIN STR BRG)) (* CLS STR))) (* STR EIG)))
+     (+ BRG ECC))) (/ EIG STR)))
 
 Generation: 35
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.79
+Fitness: 0.9310344827586207
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (/ (+ (MIN (+
-     (/ BRG ECC) (MIN CLS BTW)) (+ (/ CNT BTW)
-     (- ECC CLS))) (* CNT (* (+ CNT RAD) (MIN
-     (+ (/ BRG ECC) (MAX RAD BTW)) (+ (/ CNT BTW)
-     (- ECC CLS)))))) (MIN (MAX ECC CLS) (MIN
-     (+ (MIN (+ (/ BRG ECC) BTW) (* RAD CNT))
-         (MIN BRG EIG)) CNT)))) (- (MAX RAD BTW) (/
-     CNT BTW))) (/ (+ (- BTW CLS) (* CNT (* (+
-     CNT RAD) (MIN (+ (/ BRG ECC) (/ (+ (- BTW
-     CLS) (* CNT (* (+ CNT RAD) (MIN (+ (/ BRG
-     ECC) (MIN CLS BTW)) (+ (/ CNT BTW) (- ECC
-     CLS)))))) (MIN (MAX ECC CLS) (MIN (+ (MIN
-     (+ (/ BRG ECC) (MAX (+ CNT RAD) (MAX EIG
-         CLS))) (+ (MAX ECC RAD) (MAX DGR (* CNT RAD))))
-     (MIN BRG BRG)) CNT)))) (+ (/ CNT BTW) (-
-     ECC CLS)))))) (MIN (MAX ECC CLS) (MIN (+
-     (MAX (* EIG BTW) (MAX EIG CLS)) RAD) CNT))))
-     (MIN (+ (+ (+ (+ (+ (+ (/ BRG ECC) (MAX ECC
-         RAD)) (MAX DGR EIG)) (+ (MAX (* EIG BTW)
-         (MAX EIG CLS)) (+ CNT EIG))) RAD) (+ (MAX
-         RAD BTW) (* CNT RAD))) (+ (MAX RAD BTW) (*
-         CNT RAD))) (MIN (+ (/ BRG ECC) (MIN CLS (/
-         (MIN (+ ECC BTW) (MIN RAD CNT)) (* (+ EIG
-         (* CNT RAD)) (MIN (+ (+ (+ CNT DGR) (+ (-
-         BTW CLS) (* CNT BRG))) (- BTW CLS)) (+ (+
-         (+ (+ (+ (/ BRG ECC) (MAX ECC RAD)) (MAX
-             DGR EIG)) (+ (MAX (+ CNT RAD) (MAX EIG CLS))
-             (+ CNT EIG))) RAD) (+ (MAX (* CNT RAD) BTW)
-         (* CNT RAD)))))))) (+ (* DGR BTW) (MAX DGR
-         BRG)))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+     (MIN CLS (* (/ (/ BTW ECC) (+ CNT DGR)) (MIN
+         BRG ECC))) (+ BTW ECC))) (* CNT RAD))) (*
+     (MIN STR BRG) (MIN CLS (* (/ (/ BTW ECC)
+     (+ CNT DGR)) (MIN BRG ECC))))) (MAX (* (*
+     DGR EIG) (* (/ EIG STR) (/ STR BRG))) (*
+     (MIN STR (MIN STR BRG)) (MIN CLS (* STR (+
+     (* (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MAX
+         EIG ECC)) (* CNT RAD))) (/ BTW ECC)) (MAX
+         (MAX BTW (MIN (+ BTW ECC) (* CNT RAD))) (-
+         (/ CNT CLS) (- RAD CLS)))) (+ BRG ECC)) (MAX
+     (* (* (MIN STR BRG) (MIN CLS (+ BRG ECC)))
+         (* (MIN CLS BTW) (MAX EIG ECC))) (* (/ EIG
+     STR) (+ BTW ECC))))))))) (/ (/ (MIN BRG ECC)
+     (* (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+         ECC CNT)) (* CNT RAD))) (* (MIN STR BRG)
+         (MIN CLS (* STR (MAX BTW (MIN (MIN (/ BTW
+             ECC) ECC) (+ BRG ECC))))))) (MAX (MAX BTW
+         (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN (/
+             EIG STR) (+ BTW ECC))) (* CNT RAD))) (* (MAX
+             EIG ECC) (MIN CLS (* STR CLS)))) (* CLS STR)))
+         (* STR EIG))) (+ BRG ECC))) (/ EIG STR)))
 
 Generation: 36
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.8
+Fitness: 0.9310344827586207
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (+ (- BTW CLS)
-     (* CNT BRG))) (MAX ECC CLS)) (/ (+ (- BTW
-     CLS) (* CNT (* (+ CNT RAD) (MIN (+ (+ (-
-     BTW CLS) (* CNT BRG)) (- BTW CLS)) (+ (/
-     CNT BTW) (- ECC CLS)))))) (+ (+ (+ (+ (/
-     BRG ECC) (MAX ECC RAD)) (MAX DGR EIG)) (+
-     (MAX (- DGR DGR) (MAX EIG CLS)) (+ CNT EIG)))
-     RAD))) (MIN (MIN CLS BTW) (MIN (+ (/ BRG
-     (MIN (+ (+ (+ (+ (+ (+ (/ BRG ECC) (MAX ECC
-         RAD)) (MAX DGR EIG)) (+ (MAX (* EIG BTW)
-         (MAX EIG CLS)) (+ CNT EIG))) RAD) (+ (MAX
-         RAD BTW) (* CNT RAD))) (+ (MAX RAD BTW) (*
-         CNT RAD))) (MIN (+ (/ BRG ECC) (MIN CLS (/
-         CNT (* (+ (MAX RAD BTW) (* CNT RAD)) (MAX
-         RAD BTW))))) (+ (* DGR BTW) (MAX DGR BRG)))))
-     (MIN CLS (/ (MIN (+ ECC BTW) (/ BRG ECC))
-         (* (+ CNT RAD) (MIN BTW RAD))))) (+ (* DGR
-     BTW) (MAX DGR BRG)))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+     (MIN BRG ECC) (/ EIG STR))) (* CNT RAD)))
+     (* (MIN STR BRG) (MIN CLS (* (/ (/ BTW ECC)
+         (+ CNT DGR)) (MIN BRG ECC))))) (MAX (* DGR
+     (* (/ EIG STR) (/ STR BRG))) (* (MIN CLS
+     (/ (* (* (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW
+         (- RAD CLS)) (* CNT RAD))) (* (MIN STR BRG)
+         (MIN CLS (* STR CLS)))) (MAX (MAX BTW (*
+         (MIN STR BRG) (MIN CLS BTW))) (- (- RAD CLS)
+         (- RAD CLS)))) (+ BRG ECC)) (+ (+ BTW ECC)
+         ECC)) (* (+ (+ (+ (MIN ECC CNT) (+ (+ BTW
+         ECC) (MAX (MIN (MIN (/ BTW ECC) ECC) (+ BTW
+         RAD)) (MIN (MIN BRG ECC) (+ BTW ECC)))))
+         (* (MIN STR BRG) (MIN CLS (* STR CLS))))
+         (MAX (* (* DGR EIG) (* CLS STR)) (- (* (*
+             DGR EIG) (* (* (/ (/ BTW ECC) (+ CNT DGR))
+             (MIN BRG ECC)) (/ STR BRG))) (- RAD CLS))))
+         (+ (MIN STR BRG) ECC)))) (MAX EIG (* (/ EIG
+     STR) (/ STR BRG)))))) (/ (/ (MAX EIG ECC)
+     (* (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (-
+         RAD CLS)) (* CNT RAD))) (* (MIN STR BRG)
+         (MIN CLS (* STR CLS)))) (MAX (MAX BTW (MIN
+         (MIN (/ BTW ECC) ECC) (+ BTW ECC))) (- (/
+         CNT CLS) (- RAD CLS)))) (+ BRG ECC))) (/
+     EIG STR)))
 
 Generation: 37
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.8
+Fitness: 0.9310344827586207
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (* (+ CNT RAD)
-     (MIN (+ (+ (+ CNT DGR) (+ (- BTW CLS) (*
-         CNT BRG))) (- BTW CLS)) (+ (/ CNT BTW) (-
-         ECC CLS))))) (- (* DGR BTW) (/ CNT BTW)))
-     (/ (+ (- BTW CLS) (* CNT (* (+ CNT RAD) (MIN
-         (+ (/ BRG ECC) (/ (+ (- BTW CLS) (* CNT (*
-             (+ CNT RAD) (MIN (+ (/ BRG ECC) (MIN (- ECC
-             CLS) BTW)) (+ (/ CNT BTW) (- ECC CLS))))))
-             (MIN (- BTW CLS) (MIN (+ (MIN (+ (/ BRG ECC)
-                 (MIN CLS BTW)) (+ (MAX ECC RAD) (MAX (MIN
-                 BTW RAD) (* CNT RAD)))) (MIN BRG BRG)) CNT))))
-         (+ (/ CNT BTW) (- ECC CLS)))))) (MIN (MAX
-         ECC CLS) (MIN (+ (MAX (MIN (+ (/ BRG ECC)
-         (+ (* EIG CNT) (+ (MAX RAD BTW) (* CNT RAD))))
-         (+ (* (* EIG BTW) BTW) (MAX DGR BRG))) (MAX
-         EIG CLS)) (+ CNT EIG)) CNT)))) (MIN (+ (+
-     (+ (+ (+ (+ (/ BRG ECC) (MAX ECC RAD)) (MAX
-         DGR EIG)) (+ (MAX (* EIG BTW) (MAX EIG CLS))
-         (+ CNT EIG))) RAD) (+ (MAX RAD BTW) (* CNT
-     RAD))) (+ (MAX RAD BTW) (* CNT RAD))) (MIN
-     (+ (/ BRG ECC) (MIN (MAX (/ (+ (+ CNT RAD)
-         (+ (- BTW CLS) (* CNT BRG))) (- (MAX RAD
-         BTW) (+ (MAX RAD BTW) (+ (- BTW CLS) (* CNT
-         BRG))))) (/ (+ (- BTW CLS) (* CNT (* (+ CNT
-         RAD) (MIN (+ (/ BRG ECC) (/ BRG ECC)) (+
-         (/ CNT BTW) (- ECC CLS)))))) (MIN (* DGR
-         BTW) (MIN (MAX RAD BTW) CNT)))) (MIN (+ (+
-         (+ (+ (+ (+ (/ BRG (* DGR BTW)) (MAX ECC
-             RAD)) (MAX DGR EIG)) (+ (MAX (* EIG BTW)
-             (MAX EIG CLS)) (+ CNT EIG))) RAD) (+ (+ ECC
-         BTW) (* CNT RAD))) (+ (MAX RAD BTW) (* CNT
-         RAD))) (MIN (+ (/ BRG ECC) CLS) (+ (+ (/
-         BRG ECC) (MIN CLS BTW)) (MAX DGR BRG))))))
-     (+ (* DGR BTW) (MAX DGR BRG)))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+     (MIN BRG ECC) (+ BTW ECC))) (* CNT RAD)))
+     (* (MIN STR BRG) (MIN CLS (* (/ (/ BTW ECC)
+         (+ CNT DGR)) (MIN BRG ECC))))) (MAX (* (MAX
+     (* (/ (/ BTW ECC) (+ CNT DGR)) (* (* DGR
+         EIG) STR)) (/ BTW ECC)) (* (/ EIG STR) (*
+     (* DGR EIG) (* (/ EIG STR) (/ STR BRG)))))
+     (* (+ BRG EIG) (MAX EIG ECC)))) (/ (/ (MAX
+     EIG ECC) (* (+ (+ (+ (MIN ECC CNT) (+ (MAX
+     BTW (- RAD CLS)) (* CNT RAD))) (* (MIN STR
+     BRG) (MIN CLS (* STR CLS)))) (MAX (MAX BTW
+     (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN (MIN
+         (MIN (/ BTW ECC) ECC) ECC) (+ BTW ECC)))
+         (* CNT RAD))) (+ BTW (+ (+ (MIN ECC CNT)
+         (+ (* (/ EIG STR) (* STR CLS)) (* (/ EIG
+             STR) (/ STR BRG)))) (* (MIN STR BRG) (MIN
+         CLS (* (/ (/ BTW ECC) (+ BTW DGR)) (MIN BRG
+         ECC))))))) (* DGR EIG))) RAD)) (+ BRG ECC)))
+     (/ EIG STR)))
 
 Generation: 38
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.8
+Fitness: 0.9310344827586207
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (* (+ CNT RAD)
-     (MIN (+ (+ (+ CNT DGR) (+ (- BTW CLS) (*
-         CNT BRG))) (- BTW CLS)) (+ (/ CNT BTW) (-
-         ECC CLS))))) (- (* DGR BTW) (/ CNT BTW)))
-     (/ (+ (- BTW CLS) (* CNT (* (+ CNT RAD) (MIN
-         (+ (/ BRG ECC) (/ (+ (- BTW CLS) (* CNT (*
-             (+ CNT RAD) (MIN (+ (/ BRG ECC) (MIN (- ECC
-             CLS) BTW)) (+ (/ CNT BTW) (- ECC CLS))))))
-             (MIN (- BTW CLS) (MIN (+ (MIN (+ (/ BRG ECC)
-                 (MIN CLS BTW)) (+ (MAX ECC RAD) (MAX (MIN
-                 BTW RAD) (* CNT RAD)))) (MIN BRG BRG)) CNT))))
-         (+ (/ CNT BTW) (- ECC CLS)))))) (MIN (MAX
-         ECC CLS) (MIN (+ (MAX (MIN (+ (/ BRG ECC)
-         (+ (* EIG CNT) (+ (MAX RAD BTW) (* CNT RAD))))
-         (+ (* (* EIG BTW) BTW) (MAX DGR BRG))) (MAX
-         EIG CLS)) (+ CNT EIG)) CNT)))) (MIN (+ (+
-     EIG (+ (MAX RAD BTW) (* CNT RAD))) (+ (MAX
-     RAD BTW) (* CNT RAD))) (MIN (+ (/ BRG ECC)
-     (MIN (MAX (/ (+ (+ CNT RAD) (+ (- BTW CLS)
-         (* CNT BRG))) (- (MAX RAD BTW) (+ (MAX RAD
-         BTW) (+ (- BTW CLS) (* CNT BRG))))) (/ (+
-         (- BTW CLS) (* CNT (* (+ CNT RAD) (MIN (+
-         (/ BRG ECC) (MAX ECC RAD)) (+ (/ CNT BTW)
-         (- ECC CLS)))))) (MIN (* DGR BTW) (MIN (MAX
-         RAD BTW) CNT)))) (MIN (+ (+ (+ (+ (+ (+ (/
-         BRG (* DGR BTW)) (MAX ECC RAD)) (MAX DGR
-         EIG)) (+ (MAX (* EIG BTW) (MAX EIG CLS))
-         (+ CNT EIG))) RAD) (+ (+ ECC BTW) (* CNT
-         RAD))) (+ (MAX RAD BTW) (* CNT RAD))) (MIN
-         (+ (/ BRG ECC) CLS) (+ (+ (/ BRG ECC) (MIN
-         CLS BTW)) (MAX DGR BRG)))))) (+ (* DGR BTW)
-     (MAX DGR BRG)))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (*
+     (/ (/ BTW (/ (/ BTW ECC) (+ CNT DGR))) (+
+         CNT DGR)) (MIN BRG ECC))) (* CNT RAD))) (*
+     (MIN STR BRG) (MIN CLS (* (/ (/ BTW ECC)
+     (+ CNT DGR)) (MIN BRG ECC))))) (MAX (* (*
+     DGR EIG) (/ (MIN BRG ECC) (* (+ (+ (+ (MIN
+     ECC CNT) (+ (MAX BTW (- RAD CLS)) (* CNT
+     RAD))) (* (MIN STR BRG) (/ EIG STR))) (MAX
+     (MAX BTW (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW
+         (MIN (MIN BRG ECC) (+ BTW ECC))) (* CNT RAD)))
+         (* (MAX EIG ECC) (MIN CLS (* STR CLS))))
+         (* CLS STR))) (* STR EIG))) (+ BRG ECC))))
+     (* (+ BRG EIG) (MIN ECC CNT)))) (/ (/ (MAX
+     EIG ECC) (* (+ (+ (+ (MIN ECC CNT) (+ (MAX
+     BTW (MIN CLS (+ (MAX BTW (MIN (MIN BRG ECC)
+     (+ BTW ECC))) (* CNT RAD)))) (* CNT RAD)))
+     (* (MIN STR BRG) (MIN CLS (* STR CLS))))
+     (MAX (MAX BTW ECC) RAD)) (+ BRG ECC))) (/
+     EIG STR)))
 
 Generation: 39
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.8
+Fitness: 0.9310344827586207
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (* (+ CNT RAD)
-     (MIN (+ (+ (+ CNT DGR) (+ (- BTW CLS) (*
-         CNT BRG))) (- BTW CLS)) (+ (/ CNT BTW) (-
-         ECC CLS))))) (- (* DGR BTW) (/ CNT BTW)))
-     (/ (+ (- BTW CLS) (* CNT (* (+ CNT RAD) (MIN
-         (+ (/ BRG ECC) (/ (+ (- BTW CLS) (* CNT (*
-             (+ CNT RAD) (MIN (+ (/ BRG ECC) (MIN (- ECC
-             CLS) BTW)) (+ (/ CNT BTW) (- ECC CLS))))))
-             (MIN (- BTW CLS) (MIN (+ (MIN (+ (/ BRG ECC)
-                 (MIN CLS BTW)) (+ (MAX ECC RAD) (MAX (MIN
-                 BTW RAD) (* CNT RAD)))) (MIN BRG BRG)) CNT))))
-         (+ (/ CNT BTW) (- ECC CLS)))))) (MIN (MAX
-         ECC CLS) (MIN (+ (MAX (MIN (+ (/ BRG ECC)
-         (+ (* EIG CNT) (+ (MAX RAD BTW) (* CNT RAD))))
-         (+ (* (* EIG BTW) BTW) (MAX DGR BRG))) (MAX
-         EIG CLS)) (+ CNT EIG)) CNT)))) (MIN (+ (+
-     (+ (+ (+ (+ (/ BRG ECC) (MAX ECC RAD)) (MAX
-         DGR EIG)) (+ (MAX (* EIG BTW) (MAX EIG CLS))
-         (+ CNT EIG))) RAD) (+ (MAX RAD BTW) (* CNT
-     RAD))) (+ (MAX RAD BTW) (* CNT RAD))) (MIN
-     (+ (/ BRG ECC) (MIN (MAX (/ (+ (+ CNT RAD)
-         (+ (- BTW CLS) (* CNT BRG))) (- (MAX RAD
-         BTW) (+ (MAX RAD BTW) (+ (- BTW CLS) (* CNT
-         BRG))))) (/ (+ (- BTW CLS) (* CNT (* (+ CNT
-         RAD) (MIN (+ (/ BRG ECC) (/ BRG ECC)) (+
-         (/ CNT BTW) (- ECC CLS)))))) (MIN (* DGR
-         BTW) (MIN (MAX RAD BTW) CNT)))) (MIN (+ (+
-         (+ (+ (+ (+ (/ BRG (* DGR BTW)) (MAX ECC
-             RAD)) (MAX DGR EIG)) (+ (MAX (* EIG BTW)
-             (MAX EIG CLS)) (+ CNT EIG))) RAD) (+ (+ ECC
-         BTW) (* CNT RAD))) (+ (MAX RAD BTW) (* CNT
-         RAD))) (MIN (+ (/ BRG ECC) CLS) (+ (+ (/
-         BRG ECC) (MIN CLS BTW)) (MAX DGR BRG))))))
-     (+ (* DGR BTW) (MAX DGR BRG)))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (+
+     (+ (/ (MAX BTW (- RAD CLS)) (+ CNT DGR))
+         (+ (MAX BTW (- RAD CLS)) (* CNT RAD))) (MAX
+     (* CNT RAD) (MIN (MIN (/ (/ BTW ECC) ECC)
+     ECC) (+ BTW ECC))))) (* CNT RAD))) (* (MIN
+     STR BRG) (MIN CLS (* (/ (/ BTW ECC) (+ CNT
+     DGR)) (MIN BRG ECC))))) (* (/ EIG STR) (/
+     STR BRG))) (/ (/ (MAX (* CNT RAD) (MIN (MIN
+     (/ (/ BTW ECC) ECC) ECC) (+ BTW ECC))) (*
+     (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (- RAD
+         CLS)) (* CNT RAD))) (* (MIN STR BRG) (MIN
+         CLS (* STR CLS)))) (MAX (MAX BTW (- RAD CLS))
+         (- (- RAD CLS) (- RAD CLS)))) (+ BRG ECC)))
+     (/ EIG STR)))
 
 Generation: 40
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.8
+Fitness: 0.9310344827586207
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (+ (- BTW CLS)
-     (* CNT BRG))) (MAX ECC CLS)) (/ (+ (- BTW
-     CLS) (* CNT (* (+ CNT RAD) (MIN (+ (+ (-
-     BTW CLS) (* CNT BRG)) (- BTW CLS)) (+ (/
-     CNT BTW) (- ECC CLS)))))) (+ (+ (+ (+ (/
-     BRG ECC) (MAX ECC RAD)) (MAX DGR EIG)) (+
-     (MAX (- DGR DGR) (MAX EIG CLS)) (+ CNT EIG)))
-     RAD))) (MIN (MIN CLS BTW) (MIN (+ (/ BRG
-     (MIN (+ (+ (+ (+ (+ (+ (/ BRG ECC) (MAX ECC
-         RAD)) (MAX DGR EIG)) (+ (MAX (* EIG BTW)
-         (MAX EIG CLS)) (+ CNT EIG))) RAD) (+ (MAX
-         RAD BTW) (* CNT RAD))) (+ (MAX RAD BTW) (*
-         CNT RAD))) (MIN (+ (/ BRG ECC) (MIN CLS (/
-         CNT (/ CNT BTW)))) (+ (* DGR BTW) (MAX DGR
-         BRG))))) (MIN CLS (/ (MIN (- BTW CLS) (/
-     BRG ECC)) (* (+ CNT RAD) (MIN BTW RAD)))))
-     (+ (* DGR BTW) (MIN (+ (/ BRG ECC) CLS) (+
-         (+ (+ CNT (MAX ECC RAD)) (MAX DGR EIG)) (+
-         (MAX (* EIG BTW) (MAX EIG CLS)) (+ CNT EIG))))))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (*
+     (/ (/ BTW ECC) (+ CNT DGR)) (MIN BRG ECC)))
+     (* CNT RAD))) (* (MIN STR BRG) (MIN (* (MIN
+     STR BRG) (MIN CLS (* STR CLS))) (* (/ (/
+     BTW ECC) (+ CNT DGR)) (MIN BRG ECC))))) (MAX
+     (* (* DGR EIG) (* (/ EIG STR) (* CNT (* (*
+         STR CLS) (/ STR BRG))))) (* (+ BRG EIG) (MAX
+     EIG ECC)))) (/ (/ (MAX EIG ECC) (* (+ (+
+     (+ (MIN ECC CNT) (+ (MAX BTW (MIN (/ BTW
+         ECC) ECC)) (* CNT RAD))) (* (MIN STR BRG)
+     (MIN CLS RAD))) (MAX (MAX BTW (+ (+ (+ (MIN
+     ECC CNT) (+ (MAX BTW (MIN (MIN BRG ECC) (+
+     BTW ECC))) (* CNT RAD))) (* (MIN STR BRG)
+     (MIN CLS (* (/ (- RAD CLS) (+ CNT DGR)) (+
+         BTW ECC))))) (* CLS STR))) (* STR EIG)))
+     (+ BRG ECC))) (/ EIG STR)))
 
 Generation: 41
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.8
+Fitness: 0.9310344827586207
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (* (+ CNT RAD)
-     (MIN (+ (+ (+ CNT DGR) (+ (- BTW CLS) (*
-         CNT BRG))) (- BTW CLS)) (+ (/ CNT BTW) (-
-         ECC CLS))))) (- (* DGR BTW) (/ CNT BTW)))
-     (/ (+ (- BTW CLS) (* CNT (* (+ CNT RAD) (MIN
-         (+ (/ BRG ECC) (/ (+ (- BTW CLS) (* CNT (*
-             (+ CNT RAD) (MIN (+ (/ BRG ECC) (MIN (- ECC
-             CLS) BTW)) (+ (/ CNT BTW) (- ECC CLS))))))
-             (MIN (- BTW CLS) (MIN (+ (MIN (+ (/ BRG ECC)
-                 (MIN CLS BTW)) (+ (MAX ECC RAD) (MAX (MIN
-                 BTW RAD) (* CNT RAD)))) (MIN BRG BRG)) CNT))))
-         (+ (/ CNT BTW) (- ECC CLS)))))) (MIN (MAX
-         ECC CLS) (MIN (+ (MAX (MIN (+ (/ BRG ECC)
-         (+ (* EIG CNT) (+ (MAX RAD BTW) (* CNT RAD))))
-         (+ (* (* EIG BTW) BTW) (MAX DGR BRG))) (MAX
-         EIG CLS)) (+ CNT EIG)) CNT)))) (MIN (+ (+
-     (+ (+ (+ (+ (/ BRG ECC) (MAX ECC RAD)) (MAX
-         DGR EIG)) (+ (MAX (* EIG BTW) (MAX EIG CLS))
-         (+ CNT EIG))) RAD) (+ (MAX RAD BTW) (* CNT
-     RAD))) (+ (MAX RAD BTW) (* CNT RAD))) (MIN
-     (+ (/ BRG ECC) (MIN (MAX (/ (+ (MIN (MAX
-         (+ CNT RAD) RAD) CNT) (+ (- BTW CLS) (* CNT
-         BRG))) (- (MAX RAD BTW) (+ (MAX RAD BTW)
-         (+ (- BTW CLS) (* CNT BRG))))) (/ (+ (- BTW
-         CLS) (* CNT (* (+ CNT RAD) (MIN (+ (/ BRG
-         ECC) (MAX ECC RAD)) (+ (/ CNT BTW) (- ECC
-         CLS)))))) (MIN (* DGR BTW) (MIN (MAX RAD
-         BTW) CNT)))) (MIN (+ (+ (+ (+ (+ (+ (/ BRG
-         (MAX ECC CLS)) (MAX ECC RAD)) (MAX DGR EIG))
-         (+ (MAX (* EIG BTW) (MAX EIG CLS)) (+ CNT
-             EIG))) RAD) (+ (+ ECC BTW) (* CNT RAD)))
-         (+ (MAX RAD BTW) (* CNT RAD))) (MIN (+ (/
-         BRG ECC) CLS) (+ (+ (/ BRG ECC) (MIN CLS
-         BTW)) (MAX DGR BRG)))))) (+ (* DGR BTW) (MAX
-     DGR BRG)))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+     (MIN BRG ECC) (+ (+ (+ BRG (MAX EIG ECC))
+     (* RAD (MIN CLS (* STR CLS)))) (MAX (MAX
+     BTW (+ (/ BTW ECC) (MAX (* (/ EIG STR) (*
+     CLS STR)) (- (/ CNT CLS) (- RAD CLS)))))
+     (- (* CNT RAD) (- RAD CLS)))))) (* CNT RAD)))
+     (* (MIN STR BRG) (MIN CLS (* (/ (/ BTW ECC)
+         (+ CNT DGR)) (MIN BRG ECC))))) ECC) (/ (/
+     (MAX EIG ECC) (* (+ (+ (+ (MIN ECC CNT) (+
+     (MAX BTW (- RAD CLS)) (* CNT RAD))) (* (MIN
+     STR BRG) (MIN CLS (* (+ (MAX BTW (- RAD CLS))
+     (* CNT RAD)) CLS)))) (MAX (MAX BTW (MIN (MIN
+     (/ BTW ECC) ECC) (+ BTW ECC))) (- (/ CNT
+     CLS) (- RAD CLS)))) (+ BRG ECC))) (/ EIG
+     STR)))
 
 Generation: 42
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.8
+Fitness: 0.9310344827586207
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (* (+ CNT RAD)
-     (MIN (+ (+ (+ CNT DGR) (+ (- BTW CLS) (*
-         CNT BRG))) (- BTW CLS)) (+ (/ CNT BTW) (-
-         ECC CLS))))) (- (* DGR BTW) (MAX (MIN BTW
-     RAD) (* CNT RAD)))) (/ (+ (- BTW CLS) (*
-     CNT (* (+ CNT RAD) (MIN (+ (/ BRG ECC) (/
-     (+ (- BTW CLS) (* CNT (* (+ CNT RAD) (MIN
-         (+ (/ BRG ECC) DGR) (+ (/ CNT BTW) (- ECC
-         CLS)))))) (MIN (- BTW CLS) (MIN (+ (MIN (+
-     (/ BRG ECC) (MIN CLS BTW)) (+ (MAX ECC RAD)
-     (MAX (MIN BTW RAD) (* CNT RAD)))) (MIN BRG
-     BRG)) CNT)))) (+ (/ CNT BTW) (- ECC CLS))))))
-     (MIN (MAX ECC CLS) (MIN (+ (MAX (MIN (+ (/
-         BRG ECC) (+ (* EIG CNT) (+ (MAX RAD BTW)
-         (* CNT RAD)))) (+ (* (* EIG BTW) BTW) (MAX
-         DGR BRG))) (MAX EIG CLS)) (+ CNT EIG)) CNT))))
-     (MIN (+ (+ (+ (+ (+ (+ (/ BRG ECC) (MAX ECC
-         RAD)) (MAX DGR EIG)) (+ (MAX (* EIG BTW)
-         (MAX EIG CLS)) (+ CNT EIG))) RAD) (+ (MAX
-         RAD BTW) (* CNT RAD))) (+ (MAX RAD BTW) (*
-         CNT RAD))) (MIN (+ (/ BRG ECC) (MIN (MAX
-         (/ (+ (+ CNT RAD) (+ (- BTW CLS) (* CNT BRG)))
-             (- (MAX RAD BTW) (+ (MAX RAD BTW) (+ (- BTW
-                 CLS) (* CNT BRG))))) (/ (+ (- BTW CLS) (*
-         CNT (* (+ CNT RAD) (MIN (+ (/ BRG ECC) (MAX
-         ECC RAD)) (+ (/ CNT BTW) (- ECC CLS))))))
-         (MIN (* DGR BTW) (MIN (MAX RAD BTW) CNT))))
-         (MIN (+ (+ (+ (+ (+ (+ (/ BRG (* DGR BTW))
-             (MAX ECC RAD)) (MAX DGR EIG)) (+ (MAX (*
-             EIG BTW) (MAX EIG CLS)) (+ CNT EIG))) RAD)
-             (+ (+ ECC BTW) (* CNT RAD))) (+ (MAX RAD
-             BTW) (* CNT RAD))) (MIN (+ (/ BRG ECC) CLS)
-             (+ (+ (/ BRG ECC) (MIN CLS BTW)) (MAX DGR
-                 BRG)))))) (+ (* DGR BTW) (MAX DGR BRG)))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+     (MIN BRG ECC) (+ BTW ECC))) (* CNT RAD)))
+     (* (MIN STR BRG) (MIN CLS (* (/ (/ BTW ECC)
+         (+ CNT DGR)) (MIN BRG ECC))))) (MAX (* (*
+     (/ EIG STR) (/ STR BRG)) (* (MAX (MAX BTW
+     (MIN (+ (MAX BTW (- RAD CLS)) (* CNT RAD))
+         (+ BTW ECC))) RAD) (MIN CLS (* STR CLS))))
+     (* (+ BRG EIG) (MAX EIG ECC)))) (/ (/ (MAX
+     EIG ECC) (* (+ (+ (+ (MIN ECC CNT) (+ (MAX
+     BTW (* (* CNT RAD) RAD)) (* CNT RAD))) (*
+     (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN (MIN
+         BRG (MIN STR BRG)) (+ BTW (+ CNT DGR))))
+         (* CNT RAD))) BTW) (* CLS STR)) (MAX (* (/
+     EIG STR) (* CLS STR)) (- (/ CNT CLS) (- RAD
+     CLS))))) (MAX (MAX BTW (+ (+ (+ (MIN ECC
+     CNT) (+ (MIN STR BRG) (+ BRG ECC))) (- RAD
+     CLS)) (MAX (* (* DGR EIG) (* (MIN CLS (*
+     STR CLS)) (/ EIG STR))) (* (/ EIG STR) (+
+     BTW ECC))))) RAD)) (+ BRG ECC))) (/ EIG STR)))
 
 Generation: 43
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.8
+Fitness: 0.9310344827586207
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (* (+ CNT RAD)
-     (MIN (+ (+ (+ CNT DGR) (+ (- BTW CLS) (*
-         CNT BRG))) (- BTW CLS)) (+ (/ CNT BTW) (-
-         ECC CLS))))) (- (* DGR BTW) (/ CNT BTW)))
-     (/ (+ (- BTW CLS) (* CNT (* (+ CNT RAD) (MIN
-         (+ (/ BRG ECC) (/ (+ (- BTW CLS) (* CNT (*
-             (+ CNT RAD) (MIN (+ (/ BRG ECC) (MIN (- ECC
-             CLS) BTW)) (+ (/ CNT BTW) (- ECC CLS))))))
-             (MIN (- BTW CLS) (MIN (+ (MIN (+ (/ BRG ECC)
-                 (MIN CLS BTW)) (+ (MAX ECC RAD) (MAX (MIN
-                 BTW RAD) (* CNT RAD)))) (MIN BRG BRG)) CNT))))
-         (+ (/ CNT BTW) (- ECC CLS)))))) (MIN (MAX
-         ECC CLS) (MIN (+ (MAX (MIN (+ (/ BRG ECC)
-         (+ (* EIG CNT) (+ (MAX RAD BTW) (* CNT RAD))))
-         (+ (* (* EIG BTW) BTW) (MAX DGR BRG))) (MAX
-         EIG CLS)) (+ CNT EIG)) CNT)))) (MIN (+ (/
-     BRG ECC) (+ (MAX RAD BTW) (* CNT RAD))) (MIN
-     (+ (/ BRG ECC) (MIN (MAX (/ (+ (+ CNT RAD)
-         (+ (- BTW CLS) (* CNT BRG))) (- (MAX RAD
-         BTW) (+ (MAX RAD BTW) (+ (- BTW CLS) (* CNT
-         BRG))))) (/ (+ (- BTW CLS) (* CNT (* (+ CNT
-         RAD) (MIN (+ (/ BRG ECC) (MAX ECC RAD)) (+
-         (/ CNT BTW) (- ECC CLS)))))) (MIN (* DGR
-         BTW) (MIN (MAX RAD BTW) CNT)))) (MIN (+ (+
-         (+ (+ (+ (+ (/ BRG (* DGR BTW)) (MAX ECC
-             RAD)) (MAX DGR EIG)) (+ (MAX (* EIG BTW)
-             (MAX EIG CLS)) (+ CNT EIG))) RAD) (+ (+ ECC
-         BTW) (* CNT RAD))) (+ (MAX RAD BTW) (* CNT
-         RAD))) (MIN (+ (/ BRG ECC) CLS) (+ (+ (+
-         (/ BRG (* DGR BTW)) (MAX ECC RAD)) (MIN CLS
-         BTW)) (MAX DGR (MAX ECC CLS))))))) (+ (*
-     DGR BTW) (MAX DGR BRG)))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+     (MIN BRG ECC) (+ BTW ECC))) (* CNT RAD)))
+     (* (MIN STR BRG) (MIN CLS (* (/ (/ BTW ECC)
+         (+ CNT DGR)) (MIN BRG ECC))))) (MAX (* (*
+     DGR EIG) (* (/ EIG STR) (/ STR BRG))) (*
+     (MIN CLS (/ (* (/ EIG STR) (+ (+ (MIN ECC
+         CNT) (+ (MAX BTW (MIN (MIN BRG ECC) (+ BTW
+         ECC))) (* CNT RAD))) (* (MIN BRG ECC) (MIN
+         CLS (* (/ (/ BTW ECC) (- BTW (- RAD CLS)))
+         (MIN BRG ECC)))))) (* (+ (+ (+ (MIN ECC CNT)
+         (+ (MIN ECC CNT) (* CNT (- BTW (- RAD CLS)))))
+         (MIN (* (* DGR EIG) (* (/ EIG STR) (/ STR
+             BRG))) (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW
+             (- RAD CLS)) (* CNT RAD))) (+ BTW ECC)) ECC)))
+         (MAX (* BTW (* CLS STR)) (- (* (* DGR EIG)
+             (* (/ EIG STR) (* CLS STR))) (- RAD CLS))))
+         (+ (MIN STR BRG) ECC)))) (* (MIN STR BRG)
+     (MIN CLS (* (/ (/ BTW ECC) (+ CNT DGR)) (MIN
+         BRG ECC))))))) (/ (/ (MAX (* CNT RAD) (MIN
+     (MIN (/ BTW ECC) ECC) (+ BTW ECC))) (* (+
+     (+ (+ (MIN ECC CNT) (+ (MAX BTW CNT) (* CNT
+         RAD))) (* (MIN STR BRG) (MIN (/ (MAX (MIN
+         ECC CNT) (MIN (MIN (* DGR EIG) ECC) (* (+
+         BRG EIG) (MAX EIG ECC)))) (* (+ (+ (+ (MIN
+         ECC CNT) (+ (MAX BTW (- RAD CLS)) (* CNT
+         RAD))) (* (MIN STR BRG) (MIN CLS (* STR CLS))))
+         (MAX (MAX BTW (MIN (MIN (/ BTW ECC) ECC)
+             (MIN STR BRG))) (- (- RAD CLS) (- RAD CLS))))
+         (+ BRG ECC))) (* STR CLS)))) (MAX (MAX BTW
+     (MIN (MIN (/ (MIN BRG ECC) ECC) ECC) (+ BTW
+         ECC))) (- (- RAD CLS) (- RAD CLS)))) (+ BRG
+     ECC))) (/ EIG STR)))
 
 Generation: 44
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.8
+Fitness: 0.9310344827586207
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (* (+ CNT RAD)
-     (MIN (+ (+ (+ CNT DGR) (+ (- BTW CLS) (*
-         CNT BRG))) (- BTW CLS)) (+ (/ CNT BTW) (-
-         ECC CLS))))) (- (* DGR BTW) (/ CNT BTW)))
-     (/ (+ (- BTW CLS) (* CNT (* (+ CNT RAD) (MIN
-         (+ (/ BRG ECC) (/ (+ (- BTW CLS) (* CNT (*
-             (+ CNT RAD) (MIN (+ (/ BRG ECC) (MIN (- ECC
-             CLS) BTW)) (+ (/ CNT BTW) (- ECC CLS))))))
-             (MIN (- BTW CLS) (MIN (+ (MIN (+ (/ BRG ECC)
-                 (MIN CLS BTW)) (+ (MAX ECC RAD) (MAX (MIN
-                 BTW RAD) (* CNT RAD)))) (MIN BRG BRG)) CNT))))
-         (+ (/ CNT BTW) (- ECC CLS)))))) (MIN (MAX
-         ECC CLS) (MIN (+ (MAX (+ (+ (+ (+ (+ (+ (/
-         BRG ECC) (MAX ECC RAD)) (MAX DGR EIG)) (+
-         (MAX (* EIG BTW) (MAX EIG CLS)) (+ CNT EIG)))
-         (* EIG BTW)) (+ (MAX RAD BTW) (* CNT RAD)))
-         (+ (MAX RAD BTW) (* CNT RAD))) (MAX EIG CLS))
-         (+ CNT EIG)) CNT)))) (MIN (+ (+ (+ (+ (+
-     (+ (/ BRG ECC) (MAX ECC RAD)) (MAX DGR EIG))
-     (+ (MAX (* EIG BTW) (MAX EIG CLS)) (+ CNT
-         EIG))) RAD) (+ (MAX RAD BTW) (* CNT RAD)))
-     (/ BRG ECC)) (MIN (+ (/ BRG ECC) (MIN (MAX
-     (/ (+ (+ CNT RAD) (+ (- BTW CLS) (* CNT BRG)))
-         (- (MAX RAD BTW) (+ (MAX RAD BTW) (+ (- BTW
-             CLS) (* CNT BRG))))) (/ (+ (- BTW CLS) (*
-     CNT (* (+ CNT RAD) (MIN (* DGR BTW) (+ (/
-     CNT BTW) (- ECC CLS)))))) (MIN (* DGR BTW)
-     (MIN (MAX RAD BTW) CNT)))) (MIN (+ (+ (+
-     (+ (+ (+ (/ BRG (* DGR BTW)) (MAX ECC RAD))
-         (MAX DGR EIG)) (+ (MAX (/ BRG ECC) (MAX EIG
-         CLS)) (+ CNT EIG))) RAD) (+ (+ ECC BTW) (*
-     CNT RAD))) (+ (MAX RAD BTW) (* CNT RAD)))
-     (MIN (+ (/ BRG ECC) CLS) (+ (/ CNT BTW) (MAX
-         DGR BRG)))))) (+ (* DGR BTW) (MAX DGR BRG)))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+     (MIN BRG ECC) (* (/ (/ BTW ECC) (+ CNT DGR))
+     (MIN BRG ECC)))) (* CNT RAD))) (* (MIN STR
+     BRG) (MIN CLS (* (/ (/ BTW ECC) (+ CNT DGR))
+     (MIN BRG ECC))))) (MAX (* (* DGR EIG) (*
+     (/ EIG STR) (* STR CLS))) (* (MIN CLS (/
+     (* (/ (+ (+ (+ CNT DGR) (+ (MAX BTW (- RAD
+         CLS)) (* CNT RAD))) (* (MIN STR BRG) (MIN
+         BRG ECC))) STR) (+ (- RAD BTW) ECC)) (* (+
+     (+ (* (/ (/ BTW ECC) (+ CNT DGR)) (MIN BRG
+         ECC)) (* (MIN STR BRG) (MIN CLS (* STR CLS))))
+     (MAX (* (* DGR EIG) (* CLS STR)) (- (* (*
+         DGR EIG) (* (/ EIG STR) (/ STR BRG))) (-
+         RAD CLS)))) (+ (* (/ EIG STR) (/ STR BRG))
+     ECC)))) (MAX EIG (* (/ EIG STR) (/ (+ (+
+     (+ (MIN ECC CNT) (+ (MAX BTW (MAX EIG ECC))
+         CLS)) (* (MIN STR BRG) (* (/ EIG STR) (/
+     STR BRG)))) (MAX (MAX BTW (MIN (MIN (MAX
+     (* (* DGR EIG) (/ STR BRG)) (* (* (+ BRG
+     EIG) (MAX EIG ECC)) (MAX EIG ECC))) ECC)
+     (+ BTW ECC))) (- (MIN ECC CNT) (/ BTW ECC))))
+     BRG)))))) (/ (/ (MAX EIG ECC) (* (+ (+ (+
+     (MIN ECC CNT) (+ (MAX BTW (- RAD CLS)) (*
+     CNT RAD))) (* (+ (MAX BTW (- RAD CLS)) (*
+     CNT RAD)) (MIN CLS (* STR CLS)))) (MAX (MAX
+     BTW CNT) (- (/ CNT CLS) (- RAD CLS)))) (+
+     BRG ECC))) (/ EIG STR)))
 
 Generation: 45
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.8
+Fitness: 0.9310344827586207
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (* (+ CNT RAD)
-     (MIN (+ (+ (+ CNT DGR) (+ (- BTW CLS) (*
-         CNT BRG))) (- BTW CLS)) (+ (/ CNT BTW) (-
-         ECC CLS))))) (- (* DGR BTW) (/ CNT BTW)))
-     (/ (+ (- BTW CLS) (* CNT (* (+ CNT RAD) (MIN
-         (+ (/ BRG ECC) (/ (+ (- BTW CLS) (* CNT (*
-             (+ CNT RAD) (MIN (+ (/ BRG ECC) (- BTW CLS))
-             (+ (/ CNT BTW) (- ECC CLS)))))) (MIN (- BTW
-             CLS) (+ CNT RAD)))) (+ (/ CNT BTW) (- ECC
-         CLS)))))) (MIN (MAX ECC CLS) (MIN (+ (MAX
-         (MIN (+ (/ BRG ECC) (+ (* EIG CNT) (+ (MAX
-             RAD BTW) (* CNT RAD)))) (+ (* (* EIG BTW)
-             BTW) (MAX DGR BRG))) (MAX EIG CLS)) (+ CNT
-         EIG)) CNT)))) (MIN (+ (+ (+ (+ (+ (+ (/ BRG
-     ECC) (MAX ECC RAD)) (MAX DGR EIG)) (+ (MAX
-     (* EIG BTW) (MAX EIG CLS)) (+ CNT EIG)))
-     RAD) (+ (MAX RAD BTW) (* CNT RAD))) (+ (MAX
-     RAD BTW) (* CNT RAD))) (MIN (+ (/ BRG ECC)
-     (MIN (MAX (/ (+ (+ CNT RAD) (+ (- BTW CLS)
-         (* CNT BRG))) (- (MAX RAD BTW) (+ (MAX RAD
-         BTW) (+ (- BTW CLS) (* CNT BRG))))) (/ (+
-         (- BTW CLS) (* CNT (* (+ CNT RAD) (MIN (+
-         (/ BRG ECC) (/ BRG ECC)) (+ (/ CNT BTW) (-
-         ECC CLS)))))) (MIN (* DGR BTW) (MIN (MAX
-         RAD BTW) CNT)))) (MIN (+ (+ (+ (+ (+ (+ (/
-         BRG (* DGR BTW)) (MAX ECC RAD)) (MAX DGR
-         EIG)) (+ (MAX (* EIG BTW) (MAX EIG CLS))
-         (+ CNT EIG))) RAD) (+ (+ ECC BTW) (MIN (+
-         (+ (+ CNT DGR) (+ (- BTW CLS) (* CNT BRG)))
-         (- BTW CLS)) (+ (/ CNT BTW) (- ECC CLS)))))
-         (+ (MAX RAD BTW) (* CNT RAD))) (MIN (+ (/
-         BRG ECC) CLS) (+ (+ (/ BRG ECC) (MIN CLS
-         BTW)) (MAX DGR BRG)))))) (MIN (+ (+ (+ (+
-     (+ (+ (/ BRG ECC) (MAX ECC RAD)) (MAX DGR
-         EIG)) (+ (MAX (* EIG BTW) (MAX EIG CLS))
-     (+ CNT EIG))) RAD) (+ (MAX RAD BTW) (* CNT
-     RAD))) (+ (MAX RAD BTW) (* CNT RAD))) (MIN
-     (+ (/ BRG ECC) (MIN (MAX (/ (+ (+ CNT RAD)
-         (+ (- BTW CLS) (* CNT BRG))) (- (MAX RAD
-         BTW) (+ (MAX RAD BTW) (+ (- BTW CLS) (* CNT
-         BRG))))) (/ (+ (- BTW CLS) (* CNT (+ (MAX
-         (* EIG BTW) (MAX EIG CLS)) (+ CNT EIG))))
-         (MIN (* DGR BTW) (MIN (MAX RAD BTW) CNT))))
-         (MIN (+ (+ (+ (+ (+ (+ (/ BRG (* DGR BTW))
-             (MAX ECC RAD)) (MAX DGR EIG)) (+ (MAX (*
-             EIG BTW) (MAX EIG CLS)) (+ CNT EIG))) RAD)
-             (+ (+ ECC BTW) (* CNT RAD))) (+ (MAX RAD
-             BTW) (* CNT RAD))) (MIN (+ (/ BRG ECC) CLS)
-             (+ (+ (/ BRG ECC) (MIN CLS BTW)) (MAX DGR
-                 BRG)))))) (+ (* DGR BTW) (MAX DGR BRG)))))))
+ (- (+ (+ (+ (MIN (* (+ BRG ECC) (+ BRG (*
+     (* DGR EIG) (* (/ EIG STR) (* (+ (MAX BTW
+     (MAX EIG ECC)) (* ECC RAD)) (* (/ EIG STR)
+     (/ STR BRG))))))) CNT) (+ (MAX BTW (MIN (MIN
+     BRG ECC) (+ BTW ECC))) (* CNT RAD))) (* (MIN
+     STR BRG) (MIN CLS (* (/ (/ BTW ECC) (+ CNT
+     DGR)) (MIN BRG ECC))))) (MAX (* (* DGR EIG)
+     (* (/ EIG STR) (* (* (MIN STR BRG) (MIN (/
+         (MAX STR (MIN (MIN (* DGR EIG) ECC) (MAX
+             BTW (/ (/ BTW ECC) (+ CNT DGR))))) (* (MIN
+         (MIN BRG ECC) (* (/ (/ BTW ECC) (+ CNT DGR))
+         (MIN BRG (+ BTW ECC)))) (* DGR EIG))) (*
+         STR CLS))) (* (/ EIG STR) (/ STR BRG)))))
+     (* (+ BRG EIG) (MAX EIG ECC)))) (/ (/ (MAX
+     EIG ECC) (* (+ (+ (+ (MIN ECC CNT) (+ (MAX
+     BTW (- RAD CLS)) (* CNT RAD))) (* (MIN STR
+     BRG) (MIN CLS (* STR CLS)))) (MAX (MAX BTW
+     (MAX BTW (MIN (MIN (/ BTW ECC) ECC) (+ BTW
+         ECC)))) RAD)) (+ BRG ECC))) (/ EIG STR)))
 
 Generation: 46
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.8
+Fitness: 0.9310344827586207
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (* (+ CNT RAD)
-     (MIN (+ (+ (+ CNT DGR) (+ (- BTW CLS) (*
-         CNT BRG))) (- BTW CLS)) (+ (/ CNT BTW) (-
-         ECC CLS))))) (- (* DGR BTW) (/ CNT BTW)))
-     (/ (+ (- BTW CLS) (* CNT (* (+ CNT RAD) (MIN
-         (+ (/ BRG ECC) (/ (+ (- BTW CLS) (* CNT (*
-             (+ CNT RAD) (MIN (+ (/ BRG ECC) (MIN (- ECC
-             CLS) BTW)) (+ (/ CNT BTW) (- ECC CLS))))))
-             (MIN (- BTW CLS) (MIN (+ (MIN (+ (/ BRG ECC)
-                 (MIN CLS BTW)) (+ (MAX ECC RAD) (MAX (MIN
-                 BTW RAD) (* CNT RAD)))) (MIN BRG BRG)) CNT))))
-         (+ (/ CNT BTW) (- ECC CLS)))))) (MIN (MAX
-         ECC CLS) (MIN (+ (MAX (MIN (+ CNT DGR) (+
-         (/ (+ (+ CNT RAD) (+ (- BTW CLS) (* CNT BRG)))
-             (- (MAX RAD BTW) (+ (+ (/ CNT BTW) (- ECC
-                 CLS)) (+ (- BTW CLS) (* CNT BRG))))) (MAX
-         DGR BRG))) (MAX EIG CLS)) (+ CNT EIG)) CNT))))
-     (MIN (+ (+ (+ (+ (+ (+ (/ BRG ECC) (+ (/
-         CNT BTW) (- ECC CLS))) (MAX DGR EIG)) (MIN
-         (+ (MAX (MIN (+ (/ BRG ECC) (+ (* EIG CNT)
-             (+ (MIN BTW RAD) (* CNT RAD)))) (+ (* (*
-             EIG BTW) BTW) (MAX DGR BRG))) (MAX EIG CLS))
-             (+ CNT EIG)) CNT)) RAD) (+ (MAX RAD BTW)
-         (* CNT RAD))) (+ (MAX (MIN (+ (+ (MIN (-
-         ECC CLS) BTW) CLS) BTW) (MIN RAD CNT)) BTW)
-         (+ (+ (+ (/ BRG (* DGR BTW)) (MAX ECC RAD))
-             (MAX DGR EIG)) (+ (MAX (* EIG BTW) (MAX EIG
-             CLS)) (+ CNT EIG))))) (MIN (+ (/ BRG ECC)
-         (MIN (MAX (/ (+ (+ CNT RAD) (+ (- BTW CLS)
-             (* CNT BRG))) (- (MAX RAD BTW) (+ (MAX RAD
-             BTW) (+ (- BTW CLS) (* CNT BRG))))) (/ (+
-             (- BTW CLS) (* CNT (* (+ CNT RAD) (MAX RAD
-             BTW)))) (MIN (* DGR BTW) (MIN (MAX RAD BTW)
-             CNT)))) (MIN (+ (+ (+ (+ (+ (+ (/ BRG (*
-             DGR BTW)) (MAX ECC RAD)) (MAX DGR EIG)) (+
-             (MAX (* EIG BTW) (MAX EIG CLS)) (+ CNT EIG)))
-             RAD) (+ (+ ECC BTW) (* CNT RAD))) (+ (MAX
-             RAD BTW) (* CNT RAD))) (MIN (+ (/ BRG ECC)
-             CLS) (+ (+ (/ BRG ECC) (MIN CLS BTW)) (MAX
-             DGR BRG)))))) (+ (* DGR BTW) (MAX DGR BRG)))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+     (MIN BRG ECC) BTW)) (* CNT RAD))) (* (MIN
+     STR BRG) (MIN CLS (* (/ (/ BTW ECC) (+ CNT
+     DGR)) (MIN BRG ECC))))) (MAX (* (* STR EIG)
+     (* (/ EIG STR) (/ STR BRG))) (* (MIN CLS
+     (/ (* (/ (+ (+ (* CNT RAD) (+ (MAX BTW (-
+         RAD CLS)) (* CNT RAD))) ECC) STR) (+ (- RAD
+         BTW) ECC)) (* (+ (+ (+ (/ EIG STR) (+ (MIN
+         ECC CNT) (* CNT (- BTW (- RAD CLS))))) (*
+         (MIN STR BRG) (/ CNT CLS))) (MAX (* (+ (-
+         RAD BTW) ECC) (* CLS STR)) (MIN ECC CNT)))
+         (+ (MIN STR BRG) ECC)))) (MAX EIG (* (* RAD
+     (MIN CLS (* STR CLS))) (/ DGR BRG)))))) (/
+     (/ (MAX EIG ECC) (* (+ (+ (+ (MIN ECC CNT)
+         (+ (MAX BTW (- RAD CLS)) (* CNT RAD))) (*
+         (/ EIG STR) (MIN CLS (* STR CLS)))) (MAX
+         (MAX BTW (MIN (MIN (/ BTW ECC) ECC) (+ BTW
+             ECC))) (- (/ CNT CLS) (- RAD CLS)))) (+ BRG
+         ECC))) (/ EIG STR)))
 
 Generation: 47
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.8
+Fitness: 0.9310344827586207
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (* (+ CNT RAD)
-     (MIN (+ (+ (+ CNT DGR) (+ (- BTW CLS) (*
-         CNT BRG))) (- BTW CLS)) (+ (/ CNT BTW) (-
-         ECC CLS))))) (- (* DGR BTW) (/ CNT BTW)))
-     (/ (+ (- BTW CLS) (* CNT (* (+ CNT RAD) (MIN
-         (+ (/ BRG ECC) (/ (+ (- BTW CLS) (* CNT (*
-             (+ CNT RAD) (MIN (+ (/ BRG ECC) (MIN (- ECC
-             CLS) BTW)) (+ (/ CNT BTW) (- ECC CLS))))))
-             (MIN (- BTW CLS) (MIN (+ (MIN (+ (/ BRG ECC)
-                 (MIN CLS BTW)) (+ (MAX ECC RAD) (MAX (MIN
-                 BTW RAD) (* CNT RAD)))) (MIN BRG BRG)) CNT))))
-         (+ (/ CNT BTW) (- ECC CLS)))))) (MIN (MAX
-         ECC CLS) (MIN (+ (MAX (MIN (+ (/ BRG ECC)
-         (+ (* EIG CNT) (+ (MAX RAD BTW) (* CNT RAD))))
-         (+ (* (* EIG BTW) BTW) (MAX DGR BRG))) (MAX
-         EIG CLS)) (+ CNT EIG)) CNT)))) (MIN (+ (+
-     (+ (+ (+ (+ (/ BRG ECC) (MAX ECC RAD)) (MAX
-         DGR EIG)) (+ (MAX (* EIG BTW) (MAX EIG CLS))
-         (+ CNT EIG))) RAD) (+ (MAX RAD BTW) (* CNT
-     RAD))) (+ (MAX RAD BTW) (* CNT RAD))) (MIN
-     (+ (/ BRG ECC) (MIN (MAX (/ (+ (+ CNT RAD)
-         (MAX (MIN (+ (/ BRG ECC) (+ (* EIG CNT) (-
-             (* DGR BTW) (/ CNT BTW)))) (+ (* (* EIG BTW)
-             BTW) (MAX DGR BRG))) (MAX EIG CLS))) (- (MAX
-         RAD BTW) (+ (MAX RAD (MIN (/ CNT BTW) (+
-         CNT EIG))) (+ (- BTW CLS) (* CNT BRG)))))
-         (/ (+ (- BTW CLS) (* CNT (* (+ CNT RAD) (MIN
-             (+ (/ BRG ECC) (/ BRG ECC)) (+ (/ CNT BTW)
-             (- ECC CLS)))))) (MIN (* DGR BTW) (MIN (MAX
-             RAD BTW) CNT)))) (MIN (+ (+ (+ (+ (+ (+ (/
-         BRG (* DGR BTW)) (MAX ECC RAD)) (MAX DGR
-         EIG)) (+ (MAX (* EIG BTW) (MAX EIG CLS))
-         (+ CNT EIG))) RAD) (+ (+ ECC BTW) (* CNT
-         RAD))) (+ (MAX RAD BTW) (* CNT RAD))) (MIN
-         (+ (/ BRG ECC) CLS) (+ (+ (/ BRG ECC) (MIN
-         CLS BTW)) (MAX DGR BRG)))))) (MIN (+ (+ (+
-     (+ (+ (+ (/ BRG ECC) (MAX ECC RAD)) (MAX
-         DGR EIG)) (+ (MAX (* EIG BTW) (MAX EIG CLS))
-         (+ CNT EIG))) RAD) (+ (MAX RAD BTW) (* CNT
-     RAD))) (+ (+ (/ BRG (* DGR BTW)) (MAX ECC
-     RAD)) (MAX DGR EIG))) (MIN (+ (/ BRG ECC)
-     (MIN (MAX (/ (+ (+ CNT RAD) (+ (- BTW CLS)
-         (* CNT BRG))) (- (MAX RAD BTW) (+ (MAX RAD
-         BTW) (+ (- BTW CLS) (* CNT BRG))))) (/ (MIN
-         CLS BTW) (MIN (* DGR BTW) (MIN (MAX RAD BTW)
-         CNT)))) (MIN (+ (+ (+ (+ (+ (+ (/ BRG (*
-         DGR BTW)) (MAX ECC RAD)) (MAX DGR EIG)) (+
-         (MAX (* EIG BTW) (MAX EIG CLS)) (+ CNT EIG)))
-         RAD) (+ (+ ECC BTW) (* CNT RAD))) (+ (MAX
-         RAD BTW) (* CNT RAD))) (MIN (+ (/ BRG ECC)
-         CLS) (+ (+ (/ BRG ECC) (MIN CLS BTW)) (MAX
-         DGR BRG)))))) (+ (* DGR BTW) (MAX DGR BRG)))))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (/
+     CNT CLS)) (* CNT RAD))) (* (MIN STR BRG)
+     (MIN CLS (* (/ (/ BTW ECC) (+ CNT DGR)) (MIN
+         BRG ECC))))) (MAX (* (/ (/ BTW ECC) (+ CNT
+     DGR)) (* (/ EIG STR) (+ (+ (MIN ECC CNT)
+     (+ BTW (* CNT RAD))) (* (MIN STR BRG) (MIN
+     CLS (* (/ (/ BTW ECC) (+ CNT DGR)) (MIN BRG
+     ECC))))))) (* (MIN CLS (/ (+ (+ (+ (+ (+
+     (+ (MIN ECC CNT) (+ (MAX BTW (MIN (MIN BRG
+         ECC) (+ BTW ECC))) (* CNT RAD))) (* (MIN
+     STR BRG) (MIN CLS (* (/ (/ BTW ECC) (+ CNT
+     DGR)) (MIN ECC CNT))))) (MAX (* (* DGR EIG)
+     (/ STR BRG)) (* (+ BRG EIG) (MAX EIG (MAX
+     BTW (- RAD CLS)))))) (+ (MAX BTW (/ EIG STR))
+     (* CNT RAD))) (* (MIN STR BRG) (MIN CLS (*
+     STR CLS)))) (MAX (/ STR BRG) (+ BRG ECC)))
+     (* (+ (+ (+ (MIN ECC CNT) (+ (+ BTW ECC)
+         (* ECC (- BTW (- RAD CLS))))) (* (MIN STR
+         BRG) (MIN CLS (* STR CLS)))) (MAX (* (* DGR
+         EIG) (* DGR STR)) (/ EIG STR))) (+ (MIN STR
+         BRG) ECC)))) (MAX EIG (* (/ EIG STR) (MIN
+     CLS (* (/ (/ BTW ECC) (+ CNT DGR)) (MIN BRG
+     ECC)))))))) (/ (/ (MAX EIG ECC) (* (+ (+
+     (+ (MIN ECC CNT) (+ (MAX BTW (- RAD CLS))
+         (* CNT RAD))) (* (MIN STR BRG) (MIN CLS (*
+     CLS STR)))) (MAX (MAX BTW (MIN (MIN (MIN
+     (+ (MAX BTW (- RAD CLS)) (+ (MIN CLS (* (/
+         (/ BTW ECC) (+ CNT DGR)) (MIN BRG ECC)))
+         (+ (MAX BTW (- RAD CLS)) (* CNT RAD)))) (+
+     (MAX BTW (- RAD CLS)) (* CNT RAD))) (* CNT
+     (+ BTW (* (MIN STR BRG) (MIN CLS (* STR CLS))))))
+     (+ BTW ECC))) (- (/ CNT CLS) (- RAD CLS))))
+     (+ BRG ECC))) (/ EIG STR)))
 
 Generation: 48
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.8
+Fitness: 0.9310344827586207
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (* (+ CNT RAD)
-     (MIN (+ (+ (+ CNT DGR) (+ (- BTW CLS) (*
-         CNT BRG))) (- BTW CLS)) (+ (/ CNT BTW) (-
-         ECC CLS))))) (- (* DGR BTW) CNT)) (/ (+ (-
-     BTW CLS) (* CNT (* (+ CNT RAD) (MIN (+ (/
-     BRG ECC) (/ (+ (- BTW CLS) (* CNT (* (+ CNT
-     RAD) (MIN (+ (/ BRG ECC) (MIN (- ECC CLS)
-     BTW)) (+ (/ CNT BTW) (- ECC CLS)))))) (MIN
-     (- BTW CLS) (MIN (+ (MIN (+ (/ BRG ECC) (MIN
-     CLS BTW)) (+ (MAX ECC RAD) (MAX (MIN BTW
-     RAD) (* CNT RAD)))) (MIN BRG BRG)) CNT))))
-     (+ (/ CNT BTW) (- ECC CLS)))))) (MIN (MAX
-     ECC CLS) (MIN (+ (MAX (MIN (+ (/ BRG ECC)
-     (+ (* EIG CNT) (+ (MAX RAD BTW) (* CNT RAD))))
-     (+ (* (* EIG BTW) BTW) (MAX DGR BRG))) (MAX
-     EIG CLS)) (+ CNT EIG)) CNT)))) (MIN (+ (+
-     (+ (+ (+ (+ (/ BRG ECC) (MAX ECC RAD)) (MAX
-         DGR EIG)) (+ (MAX (* EIG BTW) (MAX EIG CLS))
-         (+ CNT EIG))) RAD) (+ (MAX RAD BTW) (* CNT
-     RAD))) (+ (MAX RAD BTW) (* CNT RAD))) (MIN
-     (+ (/ BRG ECC) (MIN (MAX (/ (+ (+ CNT RAD)
-         (+ (- BTW CLS) (* CNT BRG))) (- (MAX RAD
-         BTW) (+ (MAX RAD BTW) (+ (- BTW CLS) (* CNT
-         BRG))))) (/ (+ (- BTW CLS) (* CNT (* (MAX
-         (* EIG BTW) (MAX EIG CLS)) (MIN (+ (/ BRG
-         ECC) (/ BRG ECC)) (+ (+ (* DGR BTW) (MAX
-         DGR BRG)) (+ (MAX RAD BTW) (* CNT RAD)))))))
-         (MIN (* DGR (+ (- ECC CLS) RAD)) (MIN (/
-             (+ (+ CNT RAD) (+ (- BTW CLS) (* CNT BRG)))
-             (- (MAX RAD BTW) (+ (MAX RAD BTW) (+ (- BTW
-                 CLS) (* CNT BRG))))) CNT)))) (MIN (+ (+ (+
-         (+ (+ (+ (/ BRG (* DGR BTW)) (MAX ECC RAD))
-             (MAX DGR EIG)) (+ (MAX (* EIG BTW) (MAX EIG
-             CLS)) (+ CNT EIG))) RAD) (+ (+ ECC BTW) (*
-         CNT RAD))) (+ (MAX RAD BTW) (* CNT RAD)))
-         (MIN (+ (/ BRG ECC) CLS) (+ (+ (/ BRG ECC)
-             (MIN CLS BTW)) (MAX DGR BRG)))))) (+ (* DGR
-     BTW) (MAX DGR BRG)))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+     (MIN BRG ECC) (+ BTW ECC))) (* CNT RAD)))
+     (* (MIN STR BRG) (MIN CLS (* (/ (/ BTW ECC)
+         (+ CNT DGR)) (MIN BRG ECC))))) (MAX (* (*
+     DGR EIG) (* (/ EIG STR) (/ STR BRG))) (*
+     (MIN CLS (/ (* (/ (+ (+ (MIN ECC CNT) (+
+         (MAX BTW (- RAD CLS)) (* CNT RAD))) (* (MIN
+         STR BRG) (MIN CLS (* STR CLS)))) STR) (-
+         RAD CLS)) (* (+ (+ (+ (MIN ECC CNT) (+ (MIN
+         ECC CNT) (* CNT (- BTW (- (MIN CLS (MIN STR
+         BRG)) CLS))))) (* (MIN STR BRG) (MIN CLS
+         (+ BTW ECC)))) (MAX (* (* DGR EIG) (* CNT
+         (- RAD BTW))) (- (* (+ (+ (MIN ECC CNT) (+
+         (MAX BTW (- RAD CLS)) (* CNT RAD))) (* (MIN
+         STR BRG) (MIN CLS (* STR CLS)))) (* (/ EIG
+         STR) (/ STR BRG))) (+ (+ (MIN BRG ECC) (+
+         BTW ECC)) (MAX (* (/ EIG STR) (* (/ EIG STR)
+         (/ STR BRG))) (- (/ CNT CLS) (- RAD CLS)))))))
+         (+ (MIN STR BRG) ECC)))) (MAX EIG DGR))))
+     (/ (/ (MAX EIG ECC) (* (+ (+ (+ (MIN ECC
+         CNT) (+ (MAX BTW (- RAD CLS)) (* CNT RAD)))
+         (* (/ EIG STR) (MIN CLS (* STR CLS)))) (MAX
+         (MAX BTW (MIN (MIN (/ BTW ECC) ECC) (+ BTW
+             ECC))) (- (/ CNT CLS) (- RAD CLS)))) (+ BRG
+         ECC))) (/ EIG STR)))
 
 Generation: 49
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.8
+Fitness: 0.9310344827586207
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (* (+ CNT RAD)
-     (MIN (+ (+ (+ CNT DGR) (+ (- BTW CLS) (*
-         CNT BRG))) (- BTW CLS)) (+ (/ CNT BTW) (-
-         ECC CLS))))) (- (* DGR BTW) (/ CNT BTW)))
-     (/ (+ (- BTW CLS) (* CNT (* (+ CNT RAD) (MIN
-         (+ (/ BRG ECC) (/ (+ (- BTW CLS) (* CNT (*
-             (+ CNT RAD) (MIN (+ (/ BRG ECC) (- BTW CLS))
-             (+ (/ CNT BTW) (- ECC CLS)))))) (MIN (- BTW
-             CLS) (+ CNT RAD)))) (+ (/ CNT BTW) (- ECC
-         CLS)))))) (MIN (MAX ECC CLS) (MIN (+ (MAX
-         (MIN (+ (/ BRG ECC) (+ (* EIG CNT) (+ (MAX
-             RAD BTW) (* CNT RAD)))) (+ (* (* EIG BTW)
-             BTW) (MAX DGR BRG))) (MAX EIG CLS)) (+ CNT
-         EIG)) CNT)))) (MIN (+ (+ (+ (+ (+ (+ (/ BRG
-     ECC) (MAX ECC RAD)) (MAX DGR EIG)) (+ (MAX
-     (* EIG BTW) (MAX EIG CLS)) (+ CNT EIG)))
-     RAD) (+ (MAX RAD BTW) (* CNT RAD))) (+ (MAX
-     RAD BTW) (* CNT RAD))) (MIN (+ (/ BRG ECC)
-     (MIN (MAX (/ (+ (+ CNT RAD) (+ (- BTW CLS)
-         (* CNT BRG))) (- (MAX RAD BTW) (+ (MAX RAD
-         BTW) (+ (- BTW CLS) (* CNT BRG))))) (/ (+
-         (- BTW CLS) (* (+ CNT RAD) (MIN (+ (+ (+
-         CNT DGR) (+ (- BTW CLS) (* CNT BRG))) (-
-         BTW CLS)) (+ (/ CNT BTW) (- ECC CLS)))))
-         (MIN (* DGR BTW) (MIN (MAX RAD BTW) CNT))))
-         (MIN (+ (+ (+ (+ (+ (+ (/ BRG (* DGR BTW))
-             (MAX ECC RAD)) (MAX DGR EIG)) (+ (MAX (*
-             EIG BTW) (MAX EIG CLS)) (+ CNT EIG))) RAD)
-             (+ (+ ECC BTW) (MIN (+ (+ (+ CNT DGR) (+
-                 (- BTW CLS) (* CNT BRG))) (- BTW CLS)) (+
-                 (/ CNT BTW) (- ECC CLS))))) (+ (MAX RAD BTW)
-             (* CNT RAD))) (MIN (+ (/ BRG ECC) CLS) (+
-             (+ (/ BRG ECC) (MIN CLS BTW)) (MAX DGR BRG))))))
-     (MIN (+ (+ (+ (+ (+ (+ (/ BRG ECC) (MAX ECC
-         RAD)) (MAX DGR EIG)) (+ (MAX (* EIG BTW)
-         (MAX EIG CLS)) (+ CNT EIG))) RAD) (+ (MAX
-         RAD BTW) (* CNT RAD))) (+ (MAX RAD BTW) (*
-         CNT RAD))) (MIN (+ (/ BRG ECC) (MIN (MAX
-         (/ (+ CNT EIG) (- (MAX RAD BTW) (+ (MAX RAD
-             BTW) (+ (- BTW CLS) (* CNT (+ CNT DGR))))))
-         (/ (+ (- BTW CLS) (* CNT (+ (MAX (* EIG BTW)
-             (MAX EIG CLS)) (+ CNT EIG)))) (MIN (* DGR
-             BTW) (MIN (MAX RAD BTW) CNT)))) (MIN (+ (+
-         (+ (+ (+ (+ (/ BRG (* DGR BTW)) (MAX ECC
-             RAD)) (MAX DGR EIG)) (+ (MAX (* EIG BTW)
-             (MAX EIG CLS)) (+ CNT EIG))) RAD) (+ (+ ECC
-         BTW) (* CNT RAD))) (+ (MAX RAD BTW) (* CNT
-         RAD))) (MIN (+ (/ BRG ECC) CLS) (+ (+ (/
-         BRG ECC) (MIN CLS BTW)) (MAX DGR BRG))))))
-         (+ (* DGR BTW) (MAX DGR BRG)))))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+     (MIN BRG ECC) (MIN BRG ECC))) (* CNT RAD)))
+     (* (MIN STR BRG) (MIN CLS (* (/ (/ BTW ECC)
+         (+ CNT DGR)) (MIN BRG ECC))))) (MAX (* (*
+     DGR EIG) (* (/ EIG STR) (/ STR BRG))) (*
+     (MIN CLS (/ (* (/ EIG STR) (+ (+ (MIN ECC
+         CNT) (+ (MAX BTW (MIN (MIN BRG ECC) (+ BTW
+         ECC))) (* CNT RAD))) (* (MIN BRG ECC) (MIN
+         CLS (* (/ (+ (MIN ECC CNT) (+ (MAX BTW ECC)
+         (* CNT RAD))) (+ CNT DGR)) (MIN BRG ECC))))))
+         (* (+ (+ (+ (MIN ECC CNT) (+ (MIN ECC CNT)
+             (* CNT (- BTW (- RAD CLS))))) (MIN (* (*
+             DGR EIG) (* (/ EIG STR) (/ STR BRG))) (+
+             (+ (+ (MIN ECC CNT) (+ (MAX BTW (- RAD CLS))
+                 (* CNT RAD))) (* BRG (* (/ EIG STR) (/ STR
+                 BRG)))) ECC))) (/ BTW ECC)) (+ (MIN STR BRG)
+             ECC)))) (MAX BTW (+ (+ (+ (MIN ECC CNT) (MAX
+     BTW (- RAD CLS))) (+ BTW (+ (+ (MIN ECC CNT)
+     (+ (* DGR EIG) (* CNT RAD))) (* (MIN STR
+     BRG) (MIN CLS (* (/ (/ BTW ECC) (+ CNT DGR))
+     (MIN BRG ECC))))))) (MAX (* (* DGR EIG) (*
+     (MIN CLS (* STR CLS)) (MAX EIG ECC))) (*
+     (/ EIG STR) (+ BTW ECC)))))))) (/ (/ (MAX
+     (* CNT RAD) (MIN (MIN (/ BTW ECC) ECC) (+
+     BTW ECC))) (* (+ (+ (+ (MIN ECC CNT) (+ (MAX
+     BTW CNT) (* CNT RAD))) (* (MIN STR BRG) (MIN
+     (/ (MAX (MIN ECC CNT) (MIN (MIN (* DGR EIG)
+         ECC) (* (+ BRG EIG) (MAX EIG ECC)))) (* (+
+         (MIN EIG (+ BTW ECC)) (MAX (MAX BTW (MIN
+         (MIN (/ BTW ECC) ECC) (+ BTW ECC))) (- (*
+         CNT RAD) (- RAD CLS)))) (+ BRG ECC))) (*
+     STR CLS)))) (MAX (MAX BTW (MIN (MIN (+ (+
+     (MIN ECC (MIN ECC CNT)) (+ (MAX BTW (MIN
+     (MIN BRG ECC) (+ BTW ECC))) (* CNT RAD)))
+     (* ECC (MIN CLS (* (/ (/ BTW ECC) (+ CNT
+         DGR)) (MIN BRG ECC))))) ECC) (+ BTW ECC)))
+     (- (- RAD CLS) (- RAD CLS)))) (+ BRG ECC)))
+     (/ EIG STR)))
 
 Generation: 50
 Best Individual:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.8
+Fitness: 0.9310344827586207
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (* (+ CNT RAD)
-     (MIN (+ (+ (+ CNT DGR) (+ (- BTW CLS) (*
-         CNT BRG))) (- BTW CLS)) (+ (/ CNT BTW) (-
-         ECC CLS))))) (- (* DGR BTW) (/ CNT BTW)))
-     (/ (+ (- BTW CLS) (* CNT (* (+ CNT RAD) (MIN
-         (+ (/ BRG ECC) (/ (+ (- BTW CLS) (* CNT (*
-             (+ CNT RAD) (MIN (+ (/ BRG ECC) (MIN (- ECC
-             CLS) BTW)) (+ (/ CNT BTW) (- ECC CLS))))))
-             (MIN (- BTW CLS) (MIN (+ (MIN (+ (/ BRG ECC)
-                 (MIN CLS BTW)) (+ (MAX ECC RAD) (MAX (MIN
-                 BTW RAD) (* CNT RAD)))) (MIN BRG BRG)) CNT))))
-         (+ (/ CNT BTW) (- ECC CLS)))))) (MIN (- ECC
-         CLS) (MIN (+ (MAX (MIN (+ (/ BRG ECC) (+
-         (* EIG CNT) (+ (MAX RAD BTW) (* CNT RAD))))
-         (+ (+ (+ ECC BTW) (* CNT (* CNT RAD))) (MAX
-             DGR BRG))) (MAX EIG CLS)) (+ CNT EIG)) CNT))))
-     (MIN (+ (+ (+ (+ (+ (+ (/ BRG ECC) (+ (/
-         CNT BTW) (- ECC CLS))) (MAX DGR EIG)) (+
-         (MAX (* EIG BTW) (MAX EIG CLS)) (+ CNT EIG)))
-         RAD) (+ (MAX RAD BTW) (* CNT RAD))) (+ (MAX
-         RAD BTW) (* CNT RAD))) (MIN (+ (/ BRG ECC)
-         (MIN (MAX (/ (+ (+ CNT RAD) (+ (- BTW CLS)
-             (* CNT BRG))) (- (MAX RAD BTW) (+ (MAX RAD
-             BTW) (+ (- BTW CLS) (* CNT BRG))))) (/ (+
-             (- BTW CLS) (* CNT (* (+ CNT BTW) (MIN (+
-             (/ BRG ECC) (/ CNT BTW)) (+ (/ CNT BTW) (-
-             ECC CLS)))))) (MIN (* (+ (/ BRG ECC) (MIN
-             CLS BTW)) BTW) (MIN (MAX RAD BTW) CNT))))
-             (MIN (+ (+ (+ (+ (+ (+ (/ BRG (* DGR BTW))
-                 (MAX ECC RAD)) (MAX DGR EIG)) (+ (MAX (*
-                 EIG BTW) (MAX EIG CLS)) (+ CNT EIG))) RAD)
-                 (+ (+ ECC BTW) (* CNT RAD))) (+ (MAX RAD
-                 BTW) (* CNT RAD))) (MIN (+ (/ BRG ECC) CLS)
-                 (+ (+ (/ BRG ECC) (MIN CLS BTW)) (MAX DGR
-                     BRG)))))) (+ (* DGR BTW) (MAX DGR BRG)))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (+
+     (+ (/ (/ BTW ECC) (+ CNT DGR)) (+ (MAX BTW
+         (- RAD CLS)) (* CNT RAD))) (/ EIG STR)))
+     (* CNT RAD))) (* (MIN STR BRG) (MIN CLS (*
+     (/ (/ BTW ECC) (+ CNT DGR)) (MIN BRG ECC)))))
+     (MAX (* (+ BTW ECC) (* (/ EIG STR) (MIN (MIN
+         BRG ECC) (+ BTW ECC)))) (* (MIN ECC CNT)
+         (MAX (+ (/ EIG STR) (+ (- RAD BTW) (* CNT
+             RAD))) ECC)))) (/ (/ (MAX (* CNT RAD) (MIN
+     (MIN (/ (/ BTW ECC) ECC) ECC) (+ BTW ECC)))
+     (* (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+         CLS (* STR CLS))) (* CNT RAD))) (* (MIN STR
+         BRG) (MIN CLS (* STR CLS)))) (MAX (MAX (MAX
+         BTW (+ (+ (+ (MIN BRG ECC) (+ (MAX BTW (MIN
+         (MIN BRG ECC) (+ BTW ECC))) (- (/ CNT CLS)
+         (- RAD CLS)))) (* (MAX EIG ECC) (* DGR EIG)))
+         (* CLS STR))) (* (+ CNT DGR) EIG)) (- (-
+         RAD CLS) (- RAD CLS)))) (+ BRG ECC))) (/
+     EIG STR)))
 
 Best Individual of Run:
 Subpopulation 0:
 Evaluated: true
-Fitness: 0.8
+Fitness: 0.9310344827586207
 Tree 0:
- (MIN (MAX (/ (+ (+ CNT DGR) (+ (- BTW CLS)
-     (* CNT BRG))) (MAX ECC CLS)) (/ (+ (- BTW
-     CLS) (* CNT (* (+ CNT RAD) (MIN (+ (+ (-
-     BTW CLS) (* CNT BRG)) (- BTW CLS)) (+ (/
-     CNT BTW) (- ECC CLS)))))) (+ (+ (+ (+ (/
-     BRG ECC) (MAX ECC RAD)) (MAX DGR EIG)) (+
-     (MAX (- DGR DGR) (MAX EIG CLS)) (+ CNT EIG)))
-     RAD))) (MIN (MIN CLS BTW) (MIN (+ (/ BRG
-     (MIN (+ (+ (+ (+ (+ (+ (/ BRG ECC) (MAX ECC
-         RAD)) (MAX DGR EIG)) (+ (MAX (* EIG BTW)
-         (MAX EIG CLS)) (+ CNT EIG))) RAD) (+ (MAX
-         RAD BTW) (* CNT RAD))) (+ (MAX RAD BTW) (*
-         CNT RAD))) (MIN (+ (/ BRG ECC) (MIN CLS (/
-         CNT (* (+ (MAX RAD BTW) (* CNT RAD)) (MAX
-         RAD BTW))))) (+ (* DGR BTW) (MAX DGR BRG)))))
-     (MIN CLS (/ (MIN (+ ECC BTW) (/ BRG ECC))
-         (* (+ CNT RAD) (MIN BTW RAD))))) (+ (* DGR
-     BTW) (MAX DGR BRG)))))
+ (- (+ (+ (+ (MIN ECC CNT) (+ (MAX BTW (MIN
+     (+ (MAX BTW (- RAD CLS)) (* CNT RAD)) (+
+     BTW ECC))) (* CNT RAD))) (* (MIN STR BRG)
+     (MIN CLS (* (/ (/ BTW ECC) (+ CNT DGR)) (MIN
+         BRG ECC))))) (MAX (* (MAX EIG ECC) (* (/
+     EIG STR) (/ STR BRG))) (* (MIN ECC CNT) (MAX
+     EIG ECC)))) (/ (/ (MAX (* CNT RAD) (MIN (MIN
+     (/ BTW ECC) ECC) (+ BTW ECC))) (* (+ (+ (+
+     (MIN ECC CNT) (+ (MAX BTW (- RAD CLS)) (*
+     CNT RAD))) (* (MIN STR BRG) (MIN CLS (* STR
+     CLS)))) (MAX (MAX BTW (MIN (MIN (/ BTW ECC)
+     ECC) (+ BTW ECC))) (- (- RAD CLS) (- RAD
+     CLS)))) (+ BRG ECC))) (/ EIG STR)))

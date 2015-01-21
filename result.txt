@@ -198,3 +198,373 @@ True Positive: 15.00% - True Negative: 35.00%
 False Positive: 15.00% - False Negative: 35.00%
 Fitness Value: 50.0
 ________________________________________________
+Individual: ec.gp.GPIndividual@222031696{2142178715} - Counter: 1
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 0.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@651832051{2142178715} - Counter: 2
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 0.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1907293563{1281694808} - Counter: 1
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 1.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@871344721{1281694808} - Counter: 2
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 1.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@718700418{-1604554200} - Counter: 3
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 0.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1749894598{-1604554200} - Counter: 4
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 0.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@341189940{649113018} - Counter: 5
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 0.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@597984090{649113018} - Counter: 6
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 0.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@430312049{-473924773} - Counter: 7
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 0.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1677168094{-473924773} - Counter: 8
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 0.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@921377699{1310669655} - Counter: 9
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 0.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@90408576{1310669655} - Counter: 10
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 0.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@2102129972{-1373255212} - Counter: 11
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 0.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@97478960{-1373255212} - Counter: 12
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 0.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1442144599{1608342285} - Counter: 13
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 0.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1623835351{1608342285} - Counter: 14
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 0.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1712365503{736930870} - Counter: 15
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 0.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1298655474{736930870} - Counter: 16
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 0.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@2146544970{-1887597467} - Counter: 17
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 0.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1403524837{-1887597467} - Counter: 18
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 0.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@2022515739{-509832253} - Counter: 19
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 0.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@2050860657{-509832253} - Counter: 20
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 0.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@2086729598{-876571680} - Counter: 21
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 0.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1108914429{-876571680} - Counter: 22
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 0.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1877498949{-1643581379} - Counter: 23
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 0.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@126825{-1643581379} - Counter: 24
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 0.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1385099862{-1092607706} - Counter: 25
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 0.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@650647154{-1092607706} - Counter: 26
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 0.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@386591511{371225032} - Counter: 27
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 0.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1305493202{371225032} - Counter: 28
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 0.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@2067447613{-688740280} - Counter: 29
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 0.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1306623231{-688740280} - Counter: 30
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 0.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1913896020{-1743471252} - Counter: 31
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 0.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1840343374{-1743471252} - Counter: 32
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 0.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1652646747{-843160936} - Counter: 33
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 0.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@480386531{-843160936} - Counter: 34
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 0.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@761645716{-2131277154} - Counter: 35
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 0.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1977012692{-2131277154} - Counter: 36
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 0.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@527498830{-1944961248} - Counter: 37
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 0.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@860340994{-1944961248} - Counter: 38
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 0.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1300987802{-900324037} - Counter: 39
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 0.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@23494460{-900324037} - Counter: 40
+True Positive: 0.00% - True Negative: 0.00% 
+False Positive: 0.00% - False Negative: 0.00%
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@544188396{441433842} - Counter: 1
+Tp: 1 - tn: 0 - fp: 0 - fn: 0
+Fitness Value: 100.0
+________________________________________________
+Individual: ec.gp.GPIndividual@41518999{441433842} - Counter: 2
+Tp: 1 - tn: 0 - fp: 0 - fn: 0
+Fitness Value: 100.0
+________________________________________________
+Individual: ec.gp.GPIndividual@798433126{2021770022} - Counter: 3
+Tp: 0 - tn: 0 - fp: 0 - fn: 0
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1787722226{2021770022} - Counter: 4
+Tp: 0 - tn: 0 - fp: 0 - fn: 0
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@668689279{853692834} - Counter: 5
+Tp: 0 - tn: 0 - fp: 0 - fn: 0
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@878787402{853692834} - Counter: 6
+Tp: 0 - tn: 0 - fp: 0 - fn: 0
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1316479259{-1192092971} - Counter: 7
+Tp: 0 - tn: 0 - fp: 0 - fn: 0
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@542890972{-1192092971} - Counter: 8
+Tp: 0 - tn: 0 - fp: 0 - fn: 0
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1416853009{1641306738} - Counter: 9
+Tp: 0 - tn: 0 - fp: 0 - fn: 0
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1749844327{1641306738} - Counter: 10
+Tp: 0 - tn: 0 - fp: 0 - fn: 0
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1108729185{-407444795} - Counter: 11
+Tp: 0 - tn: 0 - fp: 0 - fn: 0
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@695807276{-407444795} - Counter: 12
+Tp: 0 - tn: 0 - fp: 0 - fn: 0
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1132863687{175377874} - Counter: 13
+Tp: 0 - tn: 0 - fp: 0 - fn: 0
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@449973107{175377874} - Counter: 14
+Tp: 0 - tn: 0 - fp: 0 - fn: 0
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@269841844{-1658380502} - Counter: 15
+Tp: 0 - tn: 0 - fp: 0 - fn: 0
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1893893291{-1658380502} - Counter: 16
+Tp: 0 - tn: 0 - fp: 0 - fn: 0
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@117568061{-2006211252} - Counter: 17
+Tp: 0 - tn: 0 - fp: 0 - fn: 0
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@281445987{-2006211252} - Counter: 18
+Tp: 0 - tn: 0 - fp: 0 - fn: 0
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@598030336{-1424481706} - Counter: 19
+Tp: 0 - tn: 0 - fp: 0 - fn: 0
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@872389192{-1424481706} - Counter: 20
+Tp: 0 - tn: 0 - fp: 0 - fn: 0
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1561876990{950454929} - Counter: 21
+Tp: 0 - tn: 0 - fp: 0 - fn: 0
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1773953649{950454929} - Counter: 22
+Tp: 0 - tn: 0 - fp: 0 - fn: 0
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1903621988{1468205612} - Counter: 23
+Tp: 0 - tn: 0 - fp: 0 - fn: 0
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@963379310{1468205612} - Counter: 24
+Tp: 0 - tn: 0 - fp: 0 - fn: 0
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1221363649{-1716111112} - Counter: 25
+Tp: 0 - tn: 0 - fp: 0 - fn: 0
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1810150717{-1716111112} - Counter: 26
+Tp: 0 - tn: 0 - fp: 0 - fn: 0
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1116576546{-518590465} - Counter: 27
+Tp: 0 - tn: 0 - fp: 0 - fn: 0
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1589901136{-518590465} - Counter: 28
+Tp: 0 - tn: 0 - fp: 0 - fn: 0
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@365303776{-1246514174} - Counter: 29
+Tp: 0 - tn: 0 - fp: 0 - fn: 0
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@4816459{-1246514174} - Counter: 30
+Tp: 0 - tn: 0 - fp: 0 - fn: 0
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1570934307{1224384427} - Counter: 31
+Tp: 0 - tn: 0 - fp: 0 - fn: 0
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1528941531{1224384427} - Counter: 32
+Tp: 0 - tn: 0 - fp: 0 - fn: 0
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1364945945{1245879164} - Counter: 33
+Tp: 0 - tn: 0 - fp: 0 - fn: 0
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1226180361{1245879164} - Counter: 34
+Tp: 0 - tn: 0 - fp: 0 - fn: 0
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1058677336{-1355265479} - Counter: 35
+Tp: 0 - tn: 0 - fp: 0 - fn: 0
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1287970757{-1355265479} - Counter: 36
+Tp: 0 - tn: 0 - fp: 0 - fn: 0
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@113302529{-235632886} - Counter: 37
+Tp: 0 - tn: 0 - fp: 0 - fn: 0
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1605093661{-235632886} - Counter: 38
+Tp: 0 - tn: 0 - fp: 0 - fn: 0
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@977147437{-1547685121} - Counter: 39
+Tp: 0 - tn: 0 - fp: 0 - fn: 0
+Fitness Value: 0.0
+________________________________________________
+Individual: ec.gp.GPIndividual@1109525050{-1547685121} - Counter: 40
+Tp: 0 - tn: 0 - fp: 0 - fn: 0
+Fitness Value: 0.0
+________________________________________________
